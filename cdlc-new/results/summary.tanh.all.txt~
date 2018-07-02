@@ -1,0 +1,21 @@
+
+1/english.all.tok.en-tu.tanh.model
+1/turkish.all.tok.en-tu.tanh.model
+test-tanh-all-tok-1.txt
+mean score for tanh/all = 6187/8488=0.72891140433553
+
+
+
+1/english.all.tok.morph.en-tu.1e-06.750.tanh-2.model
+1/turkish.all.tok.morph.en-tu.1e-06.750.tanh-2.model
+test-tanh-all-morph-1.txt
+mean score for tanh/all = 3086/8488=0.36357210179076
+
+
+
+2/english.all.tok.morph.en-tu.0.01.1550.tanh.256.model
+2/turkish.all.tok.morph.en-tu.0.01.1550.tanh.256.model
+test-tanh-all-morph-2.txt
+mean score for tanh/all = 3687/8488=0.43437794533459
+
+

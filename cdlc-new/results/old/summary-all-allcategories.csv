@@ -1,0 +1,18 @@
+,ALL TOK (64 dim),,ALL TOK MORPH 1  (64 dim),,ALL MORPH 2 (64 dim),,ALL MORPH 3  (256 dim),,ALL MORPH 4  (256 dim)
+,,,,,,,,,
+,Average Train F1-Score: 0.60790429114524,,Average Train F1-Score: 0.55349565840169,,Average Train F1-Score: 0.54495236136237,,Average Train F1-Score: 0.61322036594261,,Average Train F1-Score: 0.62965876114765
+,Average Train MCC-Score: 0.43452432324799,,Average Train MCC-Score: 0.31812661765563,,Average Train MCC-Score: 0.32368777343558,,Average Train MCC-Score: 0.47511423012735,,Average Train MCC-Score: 0.48365264919076
+ADDITIVE,Average Train Acc: 71.782987901961,,Average Train Acc: 69.911113481518,,Average Train Acc: 83.701558625935,,Average Train Acc: 76.968272749456,,Average Train Acc: 76.781749225231
+,Average Test F1-Score: 0.40030512294366,,Average Test F1-Score: 0.29327840706515,,Average Test F1-Score: 0.27680346743215,,Average Test F1-Score: 0.3396516965928,,Average Test F1-Score: 0.36313907591678
+,Average Test MCC-Score: 0.30961466819536,,Average Test MCC-Score: 0.1995297953343,,Average Test MCC-Score: 0.15115079291553,,Average Test MCC-Score: 0.24342387671264,,Average Test MCC-Score: 0.27941842104766
+,Average Test Acc: 69.757396381979,,Average Test Acc: 68.051279222968,,Average Test Acc: 86.419063486227,,Average Test Acc: 73.995190955732,,Average Test Acc: 74.104242202953
+,,,,,,,,,
+,,,,,,,,,
+,ALL TOK (64 dim),,ALL TOK MORPH 1  (64 dim),,ALL MORPH 2  (256 dim),,,,
+,,,,,,,,,
+,Average Train F1-Score: 0.39161572263314,,Average Train F1-Score: 0.19753552297203,,Average Train F1-Score: 0.41553996740112,,,,
+,Average Train MCC-Score: 0.31385173139561,,Average Train MCC-Score: 0.18445318442422,,Average Train MCC-Score: 0.26453533216301,,,,
+BI TANH,Average Train Acc: 77.441860465116,,Average Train Acc: 86.142339601254,,Average Train Acc: 108.63635468752,,,,
+,Average Test F1-Score: 0.29201932577123,,Average Test F1-Score: 0.12993673368139,,Average Test F1-Score: 0.20650424994324,,,,
+,Average Test MCC-Score: 0.23453517960758,,Average Test MCC-Score: 0.11348414514795,,Average Test MCC-Score: 0.093648310326679,,,,
+,Average Test Acc: 74.593939393939,,Average Test Acc: 52.70303030303,,Average Test Acc: 99.684848484849,,,,

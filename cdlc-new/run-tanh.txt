@@ -1,0 +1,8 @@
+sh run-cdlc-tanh-list.txt 10 Tanh-1 2 1000
+sh run-cdlc-tanh-list.txt 10 Tanh-1 5 1000
+sh run-cdlc-tanh-list.txt 10 Tanh-1 7 1000
+sh run-cdlc-tanh-list.txt 10 Tanh-1 10 1000
+sh run-cdlc-tanh-list.txt 10 Add 10 1000
+
+
+

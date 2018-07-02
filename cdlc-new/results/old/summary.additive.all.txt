@@ -1,0 +1,42 @@
+64
+1/english.all.tok.en-tu.model
+1/turkish.all.tok.en-tu.model
+test-additive-all-tok-1.txt
+mean score for additive/all = 5182/8488=0.61050895381715
+
+
+64
+1/english.all.tok.morph.en-tu.0.01.700.additive-morph.model
+1/turkish.all.tok.morph.en-tu.0.01.700.additive-morph.model
+test-additive-all-morph-1.txt
+mean score for additive/all = 3002/8488=0.35367577756833
+
+
+64
+2/english.all.tok.morph.en-tu.0.001073741824.1500.additive-morph.model
+2/turkish.all.tok.morph.en-tu.0.001073741824.1500.additive-morph.model
+test-additive-all-morph-2.txt
+mean score for additive/all = 2900/8488=0.34165881244109
+
+
+256
+3/english.all.tok.morph.en-tu.0.01.1350.256.additive-morph.model
+3/turkish.all.tok.morph.en-tu.0.01.1350.256.additive-morph.model
+test-additive-all-morph-3.txt
+mean score for additive/all = 3792/8488=0.44674835061263
+
+
+256
+3/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph.model
+3/turkish.all.tok.morph.en-tu.0.01.3200.256.additive-morph.model
+test-additive-all-morph-4.txt
+mean score for additive/all = 3480/8488=0.40999057492931
+
+
+256
+3/english.all.tok.morph.en-tu.0.01.3300.256.additive-morph.model
+3/turkish.all.tok.morph.en-tu.0.01.3300.256.additive-morph.model
+test-additive-all-morph-5.txt
+mean score for additive/all = 3777/8488=0.44498114985862
+
+

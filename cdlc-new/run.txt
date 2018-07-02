@@ -1,0 +1,69 @@
+if [ "$1" = "additive" ]; then 
+	echo "additive" data
+	if [ "$2" = "all" ]; then 
+		echo "all" data
+		th cdlc-additive.lua -corpus1 english.all.tok -corpus2 turkish.all.tok -train_data_path1 "../data/cdlc_en_tr/train/englishTok" -train_data_path2    "../data/cdlc_en_tr/train/turkishTok" 			-test_data_path1 "../data/cdlc_en_tr/test/englishTok" -test_data_path2 "../data/cdlc_en_tr/test/turkishTok" -lr 0.01 -lr_decay 1 -max_epoch 300 -inp_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype additive -dsize all -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "10000" ]; then 
+		echo "10000" data
+		th cdlc-additive.lua -corpus1 english.10000.tok -corpus2 turkish.10000.tok -train_data_path1 "../data/cdlc_en_tr/train/englishTok" -train_data_path2    "../data/cdlc_en_tr/train/	turkishTok" -test_data_path1 "../data/cdlc_en_tr/test/englishTok" -test_data_path2 "../data/cdlc_en_tr/test/turkishTok" -lr 0.01 -lr_decay 1 -max_epoch 300 -inp_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype additive -dsize 10000 -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "1000" ]; then 
+		echo "1000" data
+		th cdlc-additive.lua -corpus1 english.1000.tok -corpus2 turkish.1000.tok -train_data_path1 "../data/cdlc_en_tr/train/englishTok" -train_data_path2    "../data/cdlc_en_tr/train/turkishTok" -test_data_path1 "../data/cdlc_en_tr/test/englishTok" -test_data_path2 "../data/cdlc_en_tr/test/turkishTok" -lr 0.01 -lr_decay 1 -max_epoch 300 -inp_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype additive -dsize 1000 -batch_size 10 -max_loop 5
+	fi
+	fi
+	fi
+fi
+if [ "$1" = "additive-morph" ]; then 
+	echo "additive-morph" data
+	if [ "$2" = "all" ]; then 
+		echo "morph all" data
+		th cdlc-additive.lua -corpus1 english.all.tok.morph -corpus2 turkish.all.tok.morph -train_data_path1 "../data/cdlc_en_tr/train/englishMorph" -train_data_path2    "../data/cdlc_en_tr/train/turkishMorph" 			-test_data_path1 "../data/cdlc_en_tr/test/englishMorph" -test_data_path2 "../data/cdlc_en_tr/test/turkishMorph" -lr 0.1 -lr_decay 0.9 -max_epoch 300 -inp_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype additive-morph -dsize all -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "10000" ]; then 
+		echo "morph 10000" data
+		th cdlc-additive.lua -corpus1 english.10000.tok.morph -corpus2 turkish.10000.tok.morph -train_data_path1 "../data/cdlc_en_tr/train/englishMorph" -train_data_path2    "../data/cdlc_en_tr/train/turkishMorph" -test_data_path1 "../data/cdlc_en_tr/test/englishMorph" -test_data_path2 "../data/cdlc_en_tr/test/turkishMorph" -lr 0.1 -lr_decay 0.9 -max_epoch 300 -inp_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype additive-morph -dsize 10000 -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "1000" ]; then 
+		echo "morph 1000" data
+		th cdlc-additive.lua -corpus1 english.1000.tok.morph -corpus2 turkish.1000.tok.morph -train_data_path1 "../data/cdlc_en_tr/train/englishMorph" -train_data_path2    "../data/cdlc_en_tr/train/turkishMorph" -test_data_path1 "../data/cdlc_en_tr/test/englishMorph" -test_data_path2 "../data/cdlc_en_tr/test/turkishMorph" -lr 0.1 -lr_decay 0.9 -max_epoch 300 -inp_size 64 -threshold 100 -folds 5 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype additive-morph -dsize 1000 -batch_size 10 -max_loop 5
+	fi
+	fi
+	fi
+fi
+if [ "$1" = "tanh" ]; then 
+	echo "tanh" data
+	if [ "$2" = "all" ]; then 
+		echo "all" data
+		th cdlc-tanh.lua -corpus1 english.all.tok -corpus2 turkish.all.tok -train_data_path1 "../data/cdlc_en_tr/train/englishTok" -train_data_path2    "../data/cdlc_en_tr/train/turkishTok" -test_data_path1 "../data/cdlc_en_tr/test/englishTok" -test_data_path2 "../data/cdlc_en_tr/test/turkishTok" -lr 0.01 -lr_decay 1 -max_epoch 300 -emb_size 64 -threshold 5 -folds 10 -init 0.001 -test_per 			1 -train_per 1 -train_test 1 -test_test 1 -modeltype tanh -dsize all -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "10000" ]; then 
+		echo "10000" data
+		th cdlc-tanh.lua -corpus1 english.10000.tok -corpus2 turkish.10000.tok -train_data_path1 "../data/cdlc_en_tr/train/englishTok" -train_data_path2    "../data/cdlc_en_tr/train/turkishTok" 			-test_data_path1 "../data/cdlc_en_tr/test/englishTok" -test_data_path2 "../data/cdlc_en_tr/test/turkishTok" -lr 0.01 -lr_decay 1 -max_epoch 300 -emb_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype tanh -dsize 10000 -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "1000" ]; then 
+		echo "1000" data
+		th cdlc-tanh.lua -corpus1 english.1000.tok -corpus2 turkish.1000.tok -train_data_path1 "../data/cdlc_en_tr/train/englishTok" -train_data_path2    "../data/cdlc_en_tr/train/turkishTok" -test_data_path1 "../data/cdlc_en_tr/test/englishTok" -test_data_path2 "../data/cdlc_en_tr/test/turkishTok" -lr 0.01 -lr_decay 1 -max_epoch 300 -emb_size 64 -threshold 5 -folds 10 -init 0.001 -test_per 			1 -train_per 1 -train_test 1 -test_test 1 -modeltype tanh -dsize 1000 -batch_size 10 -max_loop 5
+	fi
+	fi
+	fi
+fi
+if [ "$1" = "tanh-morph" ]; then 
+	echo "tanh" data
+	if [ "$2" = "all" ]; then 
+		echo "all" data
+		th cdlc-tanh.lua -corpus1 english.all.tok.morph -corpus2 turkish.all.tok.morph -train_data_path1 "../data/cdlc_en_tr/train/englishMorph" -train_data_path2    "../data/cdlc_en_tr/train/turkishMorph" -test_data_path1 "../data/cdlc_en_tr/test/englishMorph" -test_data_path2 "../data/cdlc_en_tr/test/turkishMorph" -lr 0.01 -lr_decay 1 -max_epoch 300 -emb_size 64 -threshold 5 -folds 10 -init 0.001 -test_per 			1 -train_per 1 -train_test 1 -test_test 1 -modeltype tanh-morph -dsize all -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "10000" ]; then 
+		echo "10000" data
+		th cdlc-tanh.lua -corpus1 english.10000.tok.morph -corpus2 turkish.10000.tok.morph -train_data_path1 "../data/cdlc_en_tr/train/englishMorph" -train_data_path2    "../data/cdlc_en_tr/train/turkishMorph" 			-test_data_path1 "../data/cdlc_en_tr/test/englishMorph" -test_data_path2 "../data/cdlc_en_tr/test/turkishMorph" -lr 0.01 -lr_decay 1 -max_epoch 300 -emb_size 64 -threshold 5 -folds 10 -init 			0.001 -test_per 1 -train_per 1 -train_test 1 -test_test 1 -modeltype tanh-morph -dsize 10000 -batch_size 10 -max_loop 5
+	else
+	if [ "$2" = "1000" ]; then 
+		echo "1000" data
+		th cdlc-tanh.lua -corpus1 english.1000.tok.morph -corpus2 turkish.1000.tok.morph -train_data_path1 "../data/cdlc_en_tr/train/englishMorph" -train_data_path2    "../data/cdlc_en_tr/train/turkishMorph" -test_data_path1 "../data/cdlc_en_tr/test/englishMoprh" -test_data_path2 "../data/cdlc_en_tr/test/turkishMorph" -lr 0.01 -lr_decay 1 -max_epoch 300 -emb_size 64 -threshold 5 -folds 10 -init 0.001 -test_per 			1 -train_per 1 -train_test 1 -test_test 1 -modeltype tanh-morph -dsize 1000 -batch_size 10 -max_loop 5
+	fi
+	fi
+	fi
+fi
+

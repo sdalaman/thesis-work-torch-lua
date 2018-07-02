@@ -1,0 +1,54 @@
+### En-Tr Tok-Morph
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri En -langSec Tr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Tr -langSec En
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri En -langSec Tr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Tr -langSec En
+
+### En-De Tok-Morph
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri En -langSec De
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri De -langSec En
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri En -langSec De
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri De -langSec En
+
+### En-Fr Tok-Morph
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri En -langSec Fr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Fr -langSec En
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri En -langSec Fr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Fr -langSec En
+
+### De-Fr Tok-Morph
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri De -langSec Fr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Fr -langSec De
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri De -langSec Fr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Fr -langSec De
+
+### De-Tr Tok-Morph
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri De -langSec Tr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Tr -langSec De
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri De -langSec Tr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Tr -langSec De
+
+
+### Fr-Tr Tok-Morph
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Fr -langSec Tr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Tr -langSec Fr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Fr -langSec Tr
+
+th cdlc-tanh.lua -lr 0.01 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -mdlImp "$2" -win_size "$3" -trmax  "$4" -tstmax  "$4" -langPri Tr -langSec Fr

@@ -1,0 +1,8 @@
+#th cdlc-tanh.lua -corpus1 english -corpus2 turkish -lr 0.001 -lr_decay 1 -max_epoch 600 -threshold 5 -graphshow 100 -folds 1 -init 0.001 -test_per 1 -train_per 1 -train_test 1 -test_test_pri 1 -test_test_sec 1 -dtype morph -dsize all -batch_size 10 -max_loop 2 -trmax 100 -tstmax 100 -model1  2/english.all.tok.morph.en-tu.0.01.1550.tanh.256.model -lookuptable1 2/english.all.tok.morph.en-tu.0.01.1550.tanh.256.LT -model2  2/turkish.all.tok.morph.en-tu.0.01.1550.tanh.256.model -lookuptable2 2/turkish.all.tok.morph.en-tu.0.01.1550.tanh.256.LT -out_file cdlc-tanh-all-morph-2
+
+
+th cdlc-additive.lua -corpus1 english -corpus2 turkish -lr 0.1 -lr_decay 1 -max_epoch 600 -threshold 300 -graphshow 1000 -folds 1 -init 0.001 -test_per 1 -train_per 1 -train_test 1 -test_test_pri 1 -test_test_sec 1 -dtype morph -dsize all -batch_size 100 -max_loop 2 -trmax 100 -tstmax 100 -model1 3/english.all.tok.morph.en-tu.0.01.3300.256.additive-morph.model -lookuptable1 3/english.all.tok.morph.en-tu.0.01.3300.256.additive-morph.LT -model2 3/turkish.all.tok.morph.en-tu.0.01.3300.256.additive-morph.model -lookuptable2 3/turkish.all.tok.morph.en-tu.0.01.3300.256.additive-morph.LT  -out_file cdlc-additive-all-tok-morph-4  
+
+
+
+

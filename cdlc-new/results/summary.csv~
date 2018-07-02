@@ -1,0 +1,87 @@
+additive 1000 full
+Average Train f1-Score: 0.14984737068888
+Average Train Acc: 70.990133897111
+Average Test f1-Score: 0.10132335199022
+Average Test Acc: 48.884848484848
+
+
+additive 10000 full
+Average Train f1-Score: 0.24669345686863
+Average Train Acc: 81.439746300211
+Average Test f1-Score: 0.13719594969671
+Average Test Acc: 52.254545454545
+
+
+additive all full
+Average Train f1-Score: 0.34823318780713
+Average Train Acc: 83.566596194503
+Average Test f1-Score: 0.23079291583316
+Average Test Acc: 85.806060606061
+
+
+additive 1000 full newtotal
+Average Train f1-Score: 0.1852203948845
+Average Train Acc: 72.780126849894
+Average Test f1-Score: 0.1694275343461
+Average Test Acc: 59.624242424242
+
+
+additive 10000 full newtotal
+Average Train f1-Score: 0.25293879969607
+Average Train Acc: 81.1592670895
+Average Test f1-Score: 0.14058789948523
+Average Test Acc: 54.254545454545
+
+
+additive all full newtotal
+Average Train f1-Score: 0.36270409404287
+Average Train Acc: 83.577167019027
+Average Test f1-Score: 0.24547402190746
+Average Test Acc: 84.49696969697
+
+
+additive 1000 newtotal
+Average Train f1-Score: 0.49399492201921
+Average Train Acc: 55.021234831062
+Average Test f1-Score: 0.21339184529771
+Average Test Acc: 56.242424242424
+
+
+additive 10000 newtotal
+Average Train f1-Score: 0.66373675052081
+Average Train Acc: 65.382795649784
+Average Test f1-Score: 0.21648318660541
+Average Test Acc: 53.115151515152
+
+
+additive all newtotal
+Average Train f1-Score: 0.72397059152493
+Average Train Acc: 74.174176788084
+Average Test f1-Score: 0.29477642420531
+Average Test Acc: 65.709090909091
+
+
+additive 1000
+Average Train f1-Score: 0.39752506059685
+Average Train Acc: 54.16040132188
+Average Test f1-Score: 0.19995007583459
+Average Test Acc: 65.381818181818
+
+
+additive 10000
+Average Train f1-Score: 0.65858187755114
+Average Train Acc: 64.327058912824
+Average Test f1-Score: 0.20583910166379
+Average Test Acc: 48.812121212121
+
+
+additive all 
+Average Train f1-Score: 0.71854133251675
+Average Train Acc: 74.265183363635
+Average Test f1-Score: 0.29064585495542
+Average Test Acc: 66.727272727273
+
+
+
+
+

@@ -1,0 +1,6 @@
+sh run-cdlc-add-list.txt 1 1000
+sh run-cdlc-add-list.txt 2 1000
+sh run-cdlc-add-list.txt 5 1000
+sh run-cdlc-add-list.txt 10 1000
+#sh run-cdlc-add-list.txt 15 1000
+

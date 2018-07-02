@@ -1,0 +1,2 @@
+sh run-list.txt tok
+sh run-list.txt morph

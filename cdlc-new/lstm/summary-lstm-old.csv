@@ -1,0 +1,30 @@
+
+-----------------------------------
+datasave : 0, seq_len : 60, emb_size : 0, dsize : 10000, test_test_sec : 1, langPri : En, lr_decay : 1, lstmtype : Lstm, trmax : 1000, lr : 0.001, langSec : Tr, max_epoch : 300, folds : 10, coefL2 : 0, hidden_size : 0, test_per : 1, graphshow : 100, train_test : 0, train_per : 1, init : 0.001, test_test_pri : 1, coefL1 : 0, max_loop : 2, tstmax : 1000, dtype : tok, threshold : 5, batch_size : 10, 
+Test Pri (tok,En,Tr) : 0.25111111111111,0.23208196694298,80.545454545455
+Test Sec (tok,En,Tr) : 0.26309523809524,0.27218076546923,82
+
+-----------------------------------
+dtype : tok, datasave : 0, test_test_sec : 1, dsize : 10000, langPri : Tr, batch_size : 10, seq_len : 60, coefL1 : 0, folds : 10, max_epoch : 300, tstmax : 1000, emb_size : 0, coefL2 : 0, test_per : 1, hidden_size : 0, langSec : En, graphshow : 100, init : 0.001, lr : 0.001, lr_decay : 1, train_test : 0, lstmtype : Lstm, trmax : 1000, threshold : 5, max_loop : 2, train_per : 1, test_test_pri : 1, 
+Test Pri (tok,Tr,En) : 0.15555555555556,0.158701266734,80.181818181818
+Test Sec (tok,Tr,En) : 0.09047619047619,0.070660183492313,80.727272727273
+
+-----------------------------------
+dsize : 10000, lstmtype : Lstm, test_test_sec : 1, graphshow : 100, train_test : 0, trmax : 1000, init : 0.001, lr_decay : 1, batch_size : 10, lr : 0.001, langSec : De, max_epoch : 300, test_per : 1, emb_size : 0, coefL2 : 0, langPri : En, test_test_pri : 1, datasave : 0, max_loop : 2, seq_len : 60, threshold : 5, folds : 10, train_per : 1, hidden_size : 0, tstmax : 1000, dtype : tok, coefL1 : 0, 
+Test Pri (tok,En,De) : 0.63759906759907,0.55608223310765,164.72727272727
+Test Sec (tok,En,De) : 0.037598039215686,-0.094373212425272,153.69230769231
+
+-----------------------------------
+dsize : 10000, tstmax : 1000, langPri : De, threshold : 5, folds : 10, coefL1 : 0, train_per : 1, emb_size : 0, graphshow : 100, datasave : 0, test_test_sec : 1, test_per : 1, trmax : 1000, train_test : 0, test_test_pri : 1, langSec : En, init : 0.001, coefL2 : 0, lr : 0.001, hidden_size : 0, seq_len : 60, max_epoch : 300, batch_size : 10, dtype : tok, max_loop : 2, lr_decay : 1, lstmtype : Lstm, 
+Test Pri (tok,De,En) : 0.05,0.016077723123215,72.153846153846
+Test Sec (tok,De,En) : 0.1616341991342,0.10230237549771,63.272727272727
+
+-----------------------------------
+folds : 10, tstmax : 1000, trmax : 1000, max_loop : 2, init : 0.001, train_per : 1, test_per : 1, test_test_sec : 1, emb_size : 0, datasave : 0, threshold : 5, dsize : 10000, coefL2 : 0, graphshow : 100, lr : 0.001, langSec : Fr, seq_len : 60, langPri : En, train_test : 0, coefL1 : 0, dtype : tok, batch_size : 10, lstmtype : Lstm, test_test_pri : 1, hidden_size : 0, lr_decay : 1, max_epoch : 300, 
+Test Pri (tok,En,Fr) : 0.27747474747475,0.25508083680217,80.363636363636
+Test Sec (tok,En,Fr) : 0.22654970760234,0.21050977991401,72.755102040816
+
+-----------------------------------
+max_epoch : 300, emb_size : 0, dsize : 10000, coefL2 : 0, trmax : 1000, test_per : 1, train_test : 0, max_loop : 2, hidden_size : 0, lstmtype : Lstm, langSec : En, seq_len : 60, folds : 10, langPri : Fr, graphshow : 100, init : 0.001, coefL1 : 0, test_test_pri : 1, lr_decay : 1, train_per : 1, dtype : tok, test_test_sec : 1, tstmax : 1000, threshold : 5, batch_size : 10, lr : 0.001, datasave : 0, 
+Test Pri (tok,Fr,En) : 0.2922345628228,0.27063134787925,83.367346938776
+Test Sec (tok,Fr,En) : 0.10357142857143,0.062770285778834,70.545454545455

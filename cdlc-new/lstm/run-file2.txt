@@ -1,0 +1,14 @@
+sh run-lstm.txt De En 1 0.001 1 10 1000 Lstm tok
+sh run-lstm.txt Fr En 1 0.001 1 10 1000 Lstm tok
+sh run-lstm.txt Tr Fr 1 0.001 1 10 1000 Lstm tok
+sh run-lstm.txt Tr Fr 1 0.001 1 10 1000 Lstm morph
+
+
+sh run-lstm.txt Tr En 1 0.0001 1 10 1000 BiLstm tok   ???
+sh run-lstm.txt En De 1 0.0001 1 10 1000 BiLstm tok
+sh run-lstm.txt Fr En 1 0.0001 1 10 1000 BiLstm tok
+sh run-lstm.txt Tr De 1 0.0001 1 10 1000 BiLstm tok   ???
+sh run-lstm.txt Tr Fr 1 0.0001 1 10 1000 BiLstm tok   ???
+
+sh run-lstm.txt En Fr 1 0.0001 1 10 1000 BiLstm morph
+

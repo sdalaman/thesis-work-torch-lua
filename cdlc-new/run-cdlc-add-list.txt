@@ -1,0 +1,63 @@
+### En-Tr Tok-Morph
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri En -langSec Tr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Tr -langSec En
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri En -langSec Tr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Tr -langSec En
+
+#####################
+### En-De Tok-Morph
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri En -langSec De
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri De -langSec En
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri En -langSec De
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri De -langSec En
+
+########################
+### De-Tr Tok-Morph
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri De -langSec Tr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Tr -langSec De
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri De -langSec Tr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Tr -langSec De
+
+###########################
+### En-Fr Tok-Morph
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri En -langSec Fr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Fr -langSec En
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri En -langSec Fr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Fr -langSec En
+
+###########################
+### De-Fr Tok-Morph
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri De -langSec Fr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Fr -langSec De
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri De -langSec Fr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Fr -langSec De
+
+###########################
+### Fr-Tr Tok-Morph
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Tr -langSec Fr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype tok -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Fr -langSec Tr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Tr -langSec Fr
+
+th cdlc-additive.lua -lr 0.1 -lr_decay 1 -max_epoch 300 -threshold 5 -graphshow 300 -folds  "$1" -init 0.001 -test_per 1 -train_per 1 -train_test 0 -test_test_pri 1 -test_test_sec 1 -dtype morph -batch_size 50 -max_loop 2 -trmax  "$2" -tstmax  "$2" -coefL1 0 -coefL2 0 -langPri Fr -langSec Tr

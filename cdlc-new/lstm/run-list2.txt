@@ -1,0 +1,7 @@
+sh run-lstm.txt En Tr 0 0.0001 1 10 1000 BiLstm "$1"
+sh run-lstm.txt Tr En 0 0.0001 1 10 1000 BiLstm "$1"
+sh run-lstm.txt En De 0 0.0001 1 10 1000 BiLstm "$1"
+sh run-lstm.txt De En 0 0.0001 1 10 1000 BiLstm "$1"
+sh run-lstm.txt En Fr 0 0.0001 1 10 1000 BiLstm "$1"
+sh run-lstm.txt Fr En 0 0.0001 1 10 1000 BiLstm "$1"
+

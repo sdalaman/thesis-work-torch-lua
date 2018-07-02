@@ -1,0 +1,79 @@
+
+
+
+train old data files stats
+----------------------
+ class : art posPriCnt 122 negPriCnt 118 posSecCnt 110 negSecCnt 105 
+ class : arts posPriCnt 175 negPriCnt 167 posSecCnt 158 negSecCnt 155 
+ class : biology posPriCnt 105 negPriCnt 104 posSecCnt 94 negSecCnt 92 
+ class : business posPriCnt 271 negPriCnt 260 posSecCnt 236 negSecCnt 226 
+ class : creativity posPriCnt 124 negPriCnt 123 posSecCnt 108 negSecCnt 108 
+ class : culture posPriCnt 434 negPriCnt 393 posSecCnt 381 negSecCnt 351 
+ class : design posPriCnt 326 negPriCnt 306 posSecCnt 291 negSecCnt 276 
+ class : economics posPriCnt 101 negPriCnt 99 posSecCnt 80 negSecCnt 76 
+ class : education posPriCnt 146 negPriCnt 140 posSecCnt 129 negSecCnt 128 
+ class : entertainment posPriCnt 262 negPriCnt 246 posSecCnt 237 negSecCnt 223 
+ class : health posPriCnt 132 negPriCnt 131 posSecCnt 109 negSecCnt 105 
+ class : politics posPriCnt 144 negPriCnt 142 posSecCnt 126 negSecCnt 123 
+ class : science posPriCnt 407 negPriCnt 366 posSecCnt 370 negSecCnt 338 
+ class : technology posPriCnt 562 negPriCnt 477 posSecCnt 500 negSecCnt 448 
+
+
+
+2nd train data files stats
+----------------------
+ class : art posPriCnt 170 negPriCnt 776 posSecCnt 170 negSecCnt 776 
+ class : arts posPriCnt 118 negPriCnt 828 posSecCnt 118 negSecCnt 828 
+ class : biology posPriCnt 63 negPriCnt 883 posSecCnt 62 negSecCnt 884 
+ class : business posPriCnt 171 negPriCnt 775 posSecCnt 171 negSecCnt 775 
+ class : creativity posPriCnt 67 negPriCnt 879 posSecCnt 67 negSecCnt 879 
+ class : culture posPriCnt 283 negPriCnt 663 posSecCnt 284 negSecCnt 662 
+ class : design posPriCnt 227 negPriCnt 719 posSecCnt 227 negSecCnt 719 
+ class : economics posPriCnt 58 negPriCnt 888 posSecCnt 58 negSecCnt 888 
+ class : education posPriCnt 84 negPriCnt 862 posSecCnt 84 negSecCnt 862 
+ class : entertainment posPriCnt 164 negPriCnt 782 posSecCnt 164 negSecCnt 782 
+ class : global posPriCnt 229 negPriCnt 717 posSecCnt 229 negSecCnt 717 
+ class : health posPriCnt 87 negPriCnt 859 posSecCnt 87 negSecCnt 859 
+ class : politics posPriCnt 87 negPriCnt 859 posSecCnt 87 negSecCnt 859 
+ class : science posPriCnt 261 negPriCnt 685 posSecCnt 260 negSecCnt 686 
+ class : technology posPriCnt 333 negPriCnt 613 posSecCnt 333 negSecCnt 613 
+
+
+
+test data files stats
+----------------------
+ class : art posPriCnt 9 negPriCnt 46 posSecCnt 9 negSecCnt 46 
+ class : arts posPriCnt 5 negPriCnt 50 posSecCnt 5 negSecCnt 50 
+ class : biology posPriCnt 3 negPriCnt 52 posSecCnt 3 negSecCnt 52 
+ class : business posPriCnt 3 negPriCnt 52 posSecCnt 3 negSecCnt 52 
+ class : creativity posPriCnt 2 negPriCnt 53 posSecCnt 2 negSecCnt 53 
+ class : culture posPriCnt 12 negPriCnt 43 posSecCnt 12 negSecCnt 43 
+ class : design posPriCnt 8 negPriCnt 47 posSecCnt 8 negSecCnt 47 
+ class : economics posPriCnt 1 negPriCnt 54 posSecCnt 1 negSecCnt 54 
+ class : education posPriCnt 3 negPriCnt 52 posSecCnt 3 negSecCnt 52 
+ class : entertainment posPriCnt 9 negPriCnt 46 posSecCnt 9 negSecCnt 46 
+ class : global posPriCnt 7 negPriCnt 48 posSecCnt 7 negSecCnt 48 
+ class : health posPriCnt 5 negPriCnt 50 posSecCnt 5 negSecCnt 50 
+ class : politics posPriCnt 3 negPriCnt 52 posSecCnt 3 negSecCnt 52 
+ class : science posPriCnt 9 negPriCnt 46 posSecCnt 9 negSecCnt 46 
+ class : technology posPriCnt 12 negPriCnt 43 posSecCnt 12 negSecCnt 43 
+
+
+
+morph test data files stats
+----------------------
+ class : art posPriCnt 9 negPriCnt 0 posSecCnt 9 negSecCnt 0 
+ class : arts posPriCnt 5 negPriCnt 0 posSecCnt 5 negSecCnt 0 
+ class : biology posPriCnt 3 negPriCnt 0 posSecCnt 3 negSecCnt 0 
+ class : business posPriCnt 3 negPriCnt 0 posSecCnt 3 negSecCnt 0 
+ class : creativity posPriCnt 2 negPriCnt 0 posSecCnt 2 negSecCnt 0 
+ class : culture posPriCnt 12 negPriCnt 0 posSecCnt 12 negSecCnt 0 
+ class : design posPriCnt 8 negPriCnt 0 posSecCnt 8 negSecCnt 0 
+ class : economics posPriCnt 1 negPriCnt 0 posSecCnt 1 negSecCnt 0 
+ class : education posPriCnt 3 negPriCnt 0 posSecCnt 3 negSecCnt 0 
+ class : entertainment posPriCnt 9 negPriCnt 0 posSecCnt 9 negSecCnt 0 
+ class : global posPriCnt 7 negPriCnt 0 posSecCnt 7 negSecCnt 0 
+ class : health posPriCnt 5 negPriCnt 0 posSecCnt 5 negSecCnt 0 
+ class : politics posPriCnt 3 negPriCnt 0 posSecCnt 3 negSecCnt 0 
+ class : science posPriCnt 9 negPriCnt 0 posSecCnt 9 negSecCnt 0 
+ class : technology posPriCnt 12 negPriCnt 0 posSecCnt 12 negSecCnt 0 
