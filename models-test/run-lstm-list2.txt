@@ -1,0 +1,10 @@
+#sh run-lstmMulti.txt  10
+#sh run-lstmMulti.txt  20
+#sh run-lstmMulti.txt  30
+#sh run-lstmMulti.txt  40
+#sh run-lstmMulti.txt  50
+#sh run-lstmMulti.txt  60
+#sh run-lstmMulti.txt  70
+sh run-lstmMulti.txt  80
+sh run-lstmMulti.txt  90
+sh run-lstmMulti.txt  100

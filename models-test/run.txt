@@ -1,0 +1,16 @@
+if [ "$1" = "additive" ]; then 
+	echo "additive" data
+	if [ "$2" = "all" ]; then 
+		echo "all" data
+		th w2v-additive-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-additive-all-tok.txt -dsize all -dtype tok
+		th w2v-additive-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-additive-all-morph.txt -dsize all -dtype morph
+	fi
+fi
+if [ "$1" = "tanh" ]; then 
+	echo "tanh" data
+	if [ "$2" = "all" ]; then 
+		echo "all" data
+		th w2v-tanh-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-tanh-all-tok.txt -dsize all -dtype tok
+		th w2v-tanh-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-tanh-all-morph.txt -dsize all -dtype morph
+	fi
+fi

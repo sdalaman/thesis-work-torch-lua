@@ -1,0 +1,1 @@
+sh run-lstm-list2.txt

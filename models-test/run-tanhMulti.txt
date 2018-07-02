@@ -1,0 +1,71 @@
+echo Tanh En-Tr
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 En -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-Tr Morph
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 En -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+echo Tanh Tr-En
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 Tr -lang2 En -mdlImp "$1" -win_size "$2"
+
+echo Tanh Tr-En Morph
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 Tr -lang2 En -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-De
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 En -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-De Morph
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 En -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh De-En
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 De -lang2 En -mdlImp "$1" -win_size "$2"
+
+echo Tanh De-En Morph
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 De -lang2 En -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-Fr
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 En -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-Fr Morph
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 En -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+echo Tanh Fr-En
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 Fr -lang2 En -mdlImp "$1" -win_size "$2"
+
+echo Tanh Fr-En Morph
+th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 Fr -lang2 En -mdlImp "$1" -win_size "$2"
+
+echo Tanh De-Fr
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 De -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+echo Tanh De-Fr Morph
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 De -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+echo Tanh Fr-De
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 Fr -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh Fr-De Morph
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 Fr -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh De-Tr
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 De -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+echo Tanh De-Tr Morph
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 De -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+echo Tanh Tr-De
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 Tr -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh Tr-De Morph
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 Tr -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh Fr-Tr
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 Fr -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+#echo Tanh Fr-Tr Morph
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 Fr -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+echo Tanh Tr-Fr
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -lang1 Tr -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+echo Tanh Tr-Fr Morph
+#th w2v-tanh-test.lua -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -lang1 Tr -lang2 Fr -mdlImp "$1" -win_size "$2"

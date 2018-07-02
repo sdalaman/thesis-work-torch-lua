@@ -1,0 +1,20 @@
+echo Tanh En-Tr Tok
+th w2v-tanh-test.lua -corpus1 english.all.tok.en-tu.new -corpus2 turkish.all.tok.en-tu.new -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -model1 1/english.all.tok.en-tu.0.01.1150.tanh.64.2 -lookuptable1 1/english.all.tok.en-tu.0.01.1150.tanh.64.2 -model2 1/turkish.all.tok.en-tu.0.01.1150.tanh.64.2 -lookuptable2 1/turkish.all.tok.en-tu.0.01.1150.tanh.64.2 -lang1 En -lang2 Tr -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-Tr Morph
+th w2v-tanh-test.lua -corpus1 english.all.tok.morph.en-tu.new -corpus2 turkish.all.tok.morph.en-tu.new -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.0.001.750.tanh.64.2 -lookuptable1 1/english.all.tok.morph.en-tu.0.001.750.tanh.64.2 -model2 1/turkish.all.tok.morph.en-tu.0.001.750.tanh.64.2 -lookuptable2 1/turkish.all.tok.morph.en-tu.0.001.750.tanh.64.2 -lang1 En -lang2 Tr  -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-De Tok             
+th w2v-tanh-test.lua -corpus1 english.all.tok.en-tu.new -corpus2 train.de-en.de.tok.tanh -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -model1 1/english.all.tok.en-tu.0.01.1150.tanh.64.2 -lookuptable1 1/english.all.tok.en-tu.0.01.1150.tanh.64.2 -model2 1/train.de-en.de.0.01.850.tanh.tok.64 -lookuptable2 1/train.de-en.de.0.01.850.tanh.tok.64 -lang1 En -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-De Morph
+#th w2v-tanh-test.lua -corpus1 english.all.tok.morph.en-tu.new -corpus2 train.de-en.de.tok.morph.tanh -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.0.001.750.tanh.64.2 -lookuptable1 1/english.all.tok.morph.en-tu.0.001.750.tanh.64.2 -model2 1/train.de-en.de.0.001.1850.tanh.tok.morph.64 -lookuptable2 1/train.de-en.de.0.001.1850.tanh.tok.morph.64 -lang1 En -lang2 De -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-Fr Tok 
+th w2v-tanh-test.lua -corpus1 english.all.tok.en-tu.new -corpus2 train.en-fr.fr.tok.tanh -test_size 100 -max_cv 1 -out_file test-tanh-all-tok -dsize all -dtype tok -model1 1/english.all.tok.en-tu.0.01.1150.tanh.64.2 -lookuptable1 1/english.all.tok.en-tu.0.01.1150.tanh.64.2 -model2 1/train.en-fr.fr.0.0001.450.tanh.tok.64 -lookuptable2 1/train.en-fr.fr.0.0001.450.tanh.tok.64 -lang1 En -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+echo Tanh En-Fr Morph
+th w2v-tanh-test.lua -corpus1 english.all.tok.morph.en-tu.new -corpus2 train.en-fr.fr.tok.morph.tanh -test_size 100 -max_cv 1 -out_file test-tanh-all-morph -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.0.001.750.tanh.64.2 -lookuptable1 1/english.all.tok.morph.en-tu.0.001.750.tanh.64.2 -model2 1/train.en-fr.fr.0.001.1850.tanh.tok.morph.64 -lookuptable2 1/train.en-fr.fr.0.001.1850.tanh.tok.morph.64 -lang1 En -lang2 Fr -mdlImp "$1" -win_size "$2"
+
+
+

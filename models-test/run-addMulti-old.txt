@@ -1,0 +1,22 @@
+echo Additive En-Tr
+th w2v-additive-test.lua -corpus1 english.all.tok.en-tu -corpus2 turkish.all.tok.en-tu -test_size 100 -max_cv 1 -out_file test-additive-all-tok -dsize all -dtype tok -model1  1/english.all.tok.en-tu -lookuptable1 1/english.all.tok.en-tu -model2  1/turkish.all.tok.en-tu -lookuptable2 1/turkish.all.tok.en-tu  -lang1 En -lang2 Tr 
+
+echo Additive En-Tr Morph
+th w2v-additive-test.lua -corpus1 english.all.tok.morph.en-tu -corpus2 turkish.all.tok.morph.en-tu -test_size 100 -max_cv 1 -out_file test-additive-all-morph -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph -lookuptable1 1/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph -model2 1/turkish.all.tok.morph.en-tu.0.01.3200.256.additive-morph -lookuptable2 1/turkish.all.tok.morph.en-tu.0.01.3200.256.additive-morph -lang1 En -lang2 Tr
+
+echo Additive En-De
+th w2v-additive-test.lua -corpus1 english.all.tok.en-tu -corpus2 train.de-en.de.tok -test_size 100 -max_cv 1 -out_file test-additive-all-tok -dsize all -dtype tok -model1 1/english.all.tok.en-tu -lookuptable1 1/english.all.tok.en-tu -model2 1/train.de-en.tok.de.0.1.175.additive.tok.64 -lookuptable2 1/train.de-en.tok.de.0.1.175.additive.tok.64 -lang1 En -lang2 De
+
+echo Additive En-De Morph
+th w2v-additive-test.lua -corpus1 english.all.tok.morph.en-tu -corpus2 train.de-en.de.tok.morph -test_size 100 -max_cv 1 -out_file test-additive-all-morph -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph -lookuptable1 1/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph -model2 1/train.de-en.de.0.01.1450.additive.tok.morph.256 -lookuptable2 1/train.de-en.de.0.01.1450.additive.tok.morph.256 -lang1 En -lang2 De
+
+echo Additive En-Fr 
+th w2v-additive-test.lua -corpus1 english.all.tok.en-tu -corpus2 train.en-fr.fr.tok -test_size 100 -max_cv 1 -out_file test-additive-all-tok -dsize all -dtype tok -model1 1/english.all.tok.en-tu -lookuptable1 1/english.all.tok.en-tu -model2 1/train.en-fr.tok.fr.0.1.300.additive.tok.64 -lookuptable2 1/train.en-fr.tok.fr.0.1.300.additive.tok.64 -lang1 En -lang2 Fr
+
+echo Additive En-Fr Morph
+th w2v-additive-test.lua -corpus1 english.all.tok.morph.en-tu -corpus2 train.en-fr.fr.tok.morph -test_size 100 -max_cv 1 -out_file test-additive-all-morph -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph -lookuptable1 1/english.all.tok.morph.en-tu.0.01.3200.256.additive-morph -model2 1/train.en-fr.fr.0.01.950.additive.tok.morph.256 -lookuptable2 1/train.en-fr.fr.0.01.950.additive.tok.morph.256 -lang1 En -lang2 Fr
+
+
+
+
+

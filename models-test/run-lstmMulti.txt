@@ -1,0 +1,149 @@
+echo model LstmScAvg-10000-Tok-En-Tr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 En -lang2 Tr
+
+echo model LstmScAvg-10000-Morph-En-Tr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 En -lang2 Tr
+
+echo  model BiLstmScAvg-10000-Tok-En-Tr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 En -lang2 Tr
+
+echo  model BiLstmScAvg-10000-Morph-En-Tr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 En -lang2 Tr
+
+
+echo model LstmScAvg-10000-Tok-Tr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 Tr -lang2 En
+
+echo model LstmScAvg-10000-Morph-Tr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 Tr -lang2 En
+
+echo  model BiLstmScAvg-10000-Tok-Tr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 Tr -lang2 En
+
+echo  model BiLstmScAvg-10000-Morph-Tr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 Tr -lang2 En
+
+echo  model LstmScAvg-10000-Tok-En-De data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 En -lang2 De
+
+echo  model LstmScAvg-10000-Morph-En-De data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 En -lang2 De
+
+echo  model BiLstmScAvg-10000-Tok-En-De data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 En -lang2 De
+
+echo  model BiLstmScAvg-10000-Morph-En-De data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 En -lang2 De
+
+echo  model LstmScAvg-10000-Tok-De-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 De -lang2 En
+
+echo  model LstmScAvg-10000-Morph-De-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 De -lang2 En
+
+echo  model BiLstmScAvg-10000-Tok-De-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 De -lang2 En
+
+echo  model BiLstmScAvg-10000-Morph-De-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 De -lang2 En
+
+echo  model LstmScAvg-10000-Tok-En-Fr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 En -lang2 Fr
+
+echo  model LstmScAvg-10000-Morph-En-Fr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 En -lang2 Fr
+
+
+echo  model BiLstmScAvg-10000-Tok-En-Fr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 En -lang2 Fr
+
+echo  model BiLstmScAvg-10000-Morph-En-Fr data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 En -lang2 Fr
+
+echo  model LstmScAvg-10000-Tok-Fr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 Fr -lang2 En
+
+echo  model LstmScAvg-10000-Morph-Fr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 Fr -lang2 En
+
+
+echo  model BiLstmScAvg-10000-Tok-Fr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 Fr -lang2 En
+
+echo  model BiLstmScAvg-10000-Morph-Fr-En data
+th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 Fr -lang2 En
+
+echo  model LstmScAvg-10000-Tok-De-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 De -lang2 Tr
+
+echo  model LstmScAvg-10000-Morph-De-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 De -lang2 Tr
+
+echo  model BiLstmScAvg-10000-Tok-De-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 De -lang2 Tr
+
+echo  model BiLstmScAvg-10000-Morph-De-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 De -lang2 Tr
+
+echo  model LstmScAvg-10000-Tok-Tr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 Tr -lang2 De
+
+echo  model LstmScAvg-10000-Morph-Tr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 Tr -lang2 De
+
+echo  model BiLstmScAvg-10000-Tok-Tr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 Tr -lang2 De
+
+echo  model BiLstmScAvg-10000-Morph-Tr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 Tr -lang2 De
+
+
+echo  model LstmScAvg-10000-Tok-De-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 De -lang2 Fr
+
+echo  model LstmScAvg-10000-Morph-De-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 De -lang2 Fr
+
+echo  model BiLstmScAvg-10000-Tok-De-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 De -lang2 Fr
+
+echo  model BiLstmScAvg-10000-Morph-De-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 De -lang2 Fr
+
+
+echo  model LstmScAvg-10000-Tok-Fr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 Fr -lang2 De
+
+echo  model LstmScAvg-10000-Morph-Fr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 Fr -lang2 De
+
+echo  model BiLstmScAvg-10000-Tok-Fr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 Fr -lang2 De
+
+echo  model BiLstmScAvg-10000-Morph-Fr-De data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 Fr -lang2 De
+
+echo  model LstmScAvg-10000-Tok-Fr-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 Fr -lang2 Tr
+
+echo  model LstmScAvg-10000-Morph-Fr-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 Fr -lang2 Tr
+
+echo  model BiLstmScAvg-10000-Tok-Fr-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 Fr -lang2 Tr
+
+echo  model BiLstmScAvg-10000-Morph-Fr-Tr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 Fr -lang2 Tr
+
+echo  model LstmScAvg-10000-Tok-Tr-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype Lstm -seqlen "$1" -lang1 Tr -lang2 Fr
+
+echo  model LstmScAvg-10000-Morph-Tr-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype Lstm -seqlen "$1" -lang1 Tr -lang2 Fr
+
+echo  model BiLstmScAvg-10000-Tok-Tr-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype tok -lstmtype BiLstm -seqlen "$1" -lang1 Tr -lang2 Fr
+
+echo  model BiLstmScAvg-10000-Morph-Tr-Fr data
+#th w2v-lstm-test.lua -test_size 100 -max_cv 1 -out_file test-lstm-10000 -dsize 10000 -dtype morph -lstmtype BiLstm -seqlen "$1" -lang1 Tr -lang2 Fr
+

@@ -1,0 +1,7 @@
+th w2v-tanh-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-tanh-all-tok-1.txt -dsize all -dtype tok -model1 1/english.all.tok.en-tu.tanh.model -lookuptable1 1/english.all.tok.en-tu.tanh.LT -model2 1/turkish.all.tok.en-tu.tanh.model -lookuptable2 1/turkish.all.tok.en-tu.tanh.LT 
+
+th w2v-tanh-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-tanh-all-morph-1.txt -dsize all -dtype morph -model1 1/english.all.tok.morph.en-tu.1e-06.750.tanh-2.model -lookuptable1 1/english.all.tok.morph.en-tu.1e-06.750.tanh-2.LT -model2 1/turkish.all.tok.morph.en-tu.1e-06.750.tanh-2.model -lookuptable2 1/turkish.all.tok.morph.en-tu.1e-06.750.tanh-2.LT  
+
+th w2v-tanh-test.lua -corpus1 english -testcorpus1 english.all.tok -corpus2 turkish -testcorpus2 turkish.all.tok -emb_size 64 -test_size 2000 -max_cv 1 -out_file test-tanh-all-morph-2.txt -dsize all -dtype morph -model1 2/english.all.tok.morph.en-tu.0.01.1550.tanh.256.model -lookuptable1 2/english.all.tok.morph.en-tu.0.01.1550.tanh.256.LT -model2 2/turkish.all.tok.morph.en-tu.0.01.1550.tanh.256.model -lookuptable2 2/turkish.all.tok.morph.en-tu.0.01.1550.tanh.256.LT  
+
+

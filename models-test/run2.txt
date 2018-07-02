@@ -1,0 +1,5 @@
+sh run-tanhMulti.txt Tanh-1 7
+sh run-tanhMulti.txt Tanh-2 7
+sh run-tanhMulti.txt Tanh-1 10
+sh run-tanhMulti.txt Tanh-2 10
+
