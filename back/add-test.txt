@@ -1,0 +1,3557 @@
+Epoch 0  Test Score: 175/1000
+Epoch 0  Test Score: 178/1000
+Epoch 0  Test Score: 194/1000
+Epoch 0  Test Score: 198/1000
+Epoch 0  Test Score: 183/1000
+Epoch 0  Test Score: 181/1000
+Epoch 0  Test Score: 181/1000
+Epoch 0  Test Score: 173/1000
+Epoch 0  Test Score: 174/1000
+Epoch 0  Test Score: 179/1000
+
+
+-------List of sentences closest each other-----------------
+
+---Did	n't	Bill	tell	you	?
+   Bill	size	anlatmadı	mı	?
+
+---Arthur	,	darling	,	do	n't	fuss	.
+   Telaşlanma	Arthur	.
+
+---No	,	just	some	milk	and	fruit	.
+   Hayır	,	süt	ve	meyve	yeterli	.
+
+---I	'm	so	proud	of	you	,	Mah-Li	.
+   Seninle	gurur	duyuyorum	,	Mah-Li	.
+
+---You	're	not	gon	na	believe	this	.
+   Buna	inanmayacaksın	.
+
+----	I	'm	sorry	,	Pop	,	I	...
+   -	Üzgünüm	baba	,	ben	...
+
+---Very	glad	to	meet	you	,	sir	.
+   Sizinle	tanıştığıma	çok	sevindim	efendim	.
+
+---Food	for	a	hungry	man	.
+   Aç	adama	yemek	.
+
+---That	's	what	Agnes	said	.
+   Agnes'in	dediği	gibi	.
+
+---Fefè	,	what	lovely	flowers	.
+   Fefe	,	ne	güzel	çiçekler	bunlar	.
+
+---Yes	,	indeed	they	are	.
+   Evet	,	gerçekten	öyle	.
+
+---I	want	the	whole	country	pink	!
+   Bütün	memleket	pembe	olmalı	!
+
+---Believe	me	,	he	is	okay	.
+   İnanın	bana	,	bir	şeyi	yok	.
+
+---Yes	,	it	's	connected	.
+   Evet	,	bağlı	durumda	.
+
+---Did	you	do	it	,	Rutledge	?
+   Sen	mi	yaptın	,	Rutledge	?
+
+---You	almost	got	caught	.
+   Neredeyse	yakalanıyordun	.
+
+---The	tennis	courts	are	empty	.
+   Tenis	kortları	bomboş	.
+
+---An	anonymous	letter	?
+   Mektup	mu	?
+
+---Thank	Benson	for	his	shirt	.
+   Benson'a	gömlek	için	teşekkür	et	.
+
+---It	is	so	with	the	world	.
+   Dünya	da	aynı	.
+
+---What	could	be	easier	?
+   Daha	ne	kadar	kolay	olabilir	ki	?
+
+---Hey	,	that	's	my	coat	!
+   Hey	,	o	benim	ceketim	!
+
+----	What	are	so	mad	about	?
+   -	Niye	bu	kadar	kızdın	?
+
+---I	meant	Don	Vincenzo	.
+   Ya	Don	Vincenzo	?
+
+---What	sort	of	friend	?
+   Ne	çeşit	bir	arkadaş	?
+
+---Captain	,	scientifically	...
+   Kaptan	,	bilimsel	olarak	...
+
+---Proverbs	,	chapter	22	.
+   Deyişler	,	bölüm	22	.
+
+---Yes	,	the	busy	signal	.
+   Evet	,	sinyal	meşgul	.
+
+----	Anya	,	say	goodbye	to	Harry	.
+   -	Anya	,	Harry'e	veda	et	.
+
+---Thank	God	,	it	worked	.
+   Tanrı'ya	şükür	becerdim	.
+
+---He	never	had	any	time	for	me	.
+   Bana	hiç	zaman	ayırmıyordu	.
+
+---Oh	,	but	Lincoln	's	dead	.
+   Oh	,	ama	Lincoln	öldü	.
+
+---Fine	.	I	'm	glad	to	hear	it	.
+   Çok	iyi	,	çok	sevindim	.
+
+---You	should	've	come	in	.
+   Seyredebilirdiniz	gizlimiz	yok	.
+
+----	We	need	more	wood	.
+   -	Daha	fazla	odun	lazım	.
+
+---This	is	Michael	Gallagher	.
+   Ben	Michael	Gallagher	.
+
+---You	do	n't	care	about	Natalie	.
+   Natalie	umurunda	değil	.
+
+---Probably	too	expensive	for	me	.
+   Büyük	ihtimalle	benim	için	çok	pahalıdır	.
+
+---You	just	want	the	baby	!
+   Sen	sadece	bebeği	istiyorsun	!
+
+---Thank	you	very	much	.	I	...
+   Çok	teşekkürler	.	Ben	...
+
+---It	's	a	long	,	merciless	attack	.
+   Uzun	ve	acımasız	bir	saldırı	.
+
+---Cinematography	by	KAZUO	YAMADA
+   Sinematografi	KAZUO	YAMADA
+
+---I	said	gim	me	some	money	.
+   Bana	para	ver	dedim	.
+
+---I	do	n't	know	anything	.
+   Hiçbir	şey	bilmiyorum	.
+
+---No	,	no	,	no	,	no	,	no	,	no	.
+   Hayır	,	hayır	,	hayır	.
+
+---Do	n't	worry	,	I	wo	n't	rape	you	.
+   Merak	etme	,	ırzına	geçmeyeceğim	.
+
+---Ah	,	they	're	only	fishes	.
+   Onlar	yalnızca	balık	.
+
+---Thorn	,	14th	Precinct	.
+   Thorn	,	14.	bölge	.
+
+---No	but	when	I	do	this	...
+   Hayır	ama	ne	zaman	bunu	yapsam-
+
+----	You	,	Johnny	Gannon	?
+   -	Sen	mi	,	Johnny	Gannon	?
+
+---That	's	what	I	call	a	pig	.
+   Bu	güzel	bir	domuz	.
+
+---In	your	own	words	,	why	not	?
+   Sizin	deyiminizle	,	neden	olmasın	?
+
+---There	's	a	bee	in	here	.
+   -Efendim	.	-Burada	bir	arı	var	.
+
+---Come	on	,	get	up	there	!
+   Haydi	,	yürüyün	!
+
+---This	is	n't	the	place	.
+   Burası	yeri	değil	.
+
+---He	needs	you	...	urgently	.
+   Acilen	yanına	...
+
+---Say	hello	to	Watson	.
+   Watson'a	merhaba	de	.
+
+----	Mister	,	you	've	started	.
+   -	Mister	,	başladın	bile	.
+
+---My	dear	,	beloved	Johan	...
+   Sen	sevgili	,	Johan	...
+
+---That	's	up	to	you	,	Sam	.
+   Bu	sana	bağlı	Sam	.
+
+---Oh	,	that	's	gorgeous	.
+   Oh	,	harika	.
+
+---What	could	happen	to	me	?
+   Bana	ne	olabilir	ki	?
+
+---Mark	,	can	you	do	me	a	favor	?
+   Mark	,	bana	bir	iyilik	yapabilir	misin	?
+
+---Come	on	,	goddamn	it	!
+   Hadi	,	kahrolası	!
+
+---May	I	speak	to	George	?
+   George	ile	görüşebilir	miyim	?
+
+---Well	,	thank	you	,	sir	.
+   Teşekkür	ederim	efendim	.
+
+---Where	else	could	we	meet	?
+   Başka	nerede	görüşebilirdik	?
+
+---That	must	be	Sachiko	.
+   Bu	Sachiko	olmalı	.
+
+---That	's	quite	a	responsibility	.
+   -	Bu	büyük	bir	sorumluluk	.
+
+----	Hal	,	are	you	all	right	?
+   -	Hal	iyi	misin	?
+
+---This	is	no	place	for	you	.
+   Burası	size	göre	değil	.
+
+---Mix	me	another	one	,	Jerry	.
+   Bana	bir	tane	daha	hazırla	Jerry	.
+
+---[	TVAnnouncer	]	Anne	Klein	.
+   Anne	Klein	.
+
+---The	decision	is	not	easy	.
+   Bu	karar	kolay	değil	.
+
+---But	they	may	be	home	now	.
+   Belki	eve	dönmüşlerdir	şimdi	.
+
+----	Good	morning	to	all	.
+   -	Herkese	günaydın	.
+
+---Now	,	I	'll	take	that	gun	.
+   Şimdi	,	o	silahı	alayım	.
+
+---Where	's	the	patient	?
+   Hasta	nerde	?
+
+---Today	it	must	look	dreadful	.
+   Bugün	daha	korkunç	görünüyordur	.
+
+---We	've	borrowed	a	child	.
+   Bir	çocuğu	ödünç	aldık	.
+
+---But	he	never	found	the	city	.
+   Ama	hiçbir	zaman	şehri	bulamamıştır	.
+
+---This	is	the	secret	Germany	.
+   Gizli	Almanya	bu	.
+
+---Captain	,	please	do	n't	...
+   -	Kaptan	,	lütfen	artık	...
+
+----	What	about	her	family	?
+   -	Evet	,	ya	ailesi	?
+
+---That	's	a	dog	,	ai	n't	it	?
+   Köpek	gibi	,	değil	mi	?
+
+---That	's	a	very	nice	name	.
+   Bu	çok	güzel	bir	isim	.
+
+----	Good	evening	,	Hunter	.
+   -	İyi	akşamlar	Hunter	.
+
+---39	Artesia	.	Ten-four	.
+   39	Artesia	.	10-4	.
+
+---And	,	pick	up	Brown	himself	.
+   Brown'ı	da	getir	.
+
+----	You	see	him	,	David	?	-	No	.
+   -	Onu	görüyor	musun	David	?
+
+---That	telephone	again	?
+   Yine	mi	telefon	?
+
+---I	am	going	home	at	once	.
+   Hemen	eve	gidiyorum	.
+
+----	It	was	n't	done	,	sir	.
+   -	Yapılmadı	,	efendim	.
+
+---They	say	the	girl	took	poison	.
+   Kızın	zehir	içtiğini	söylüyorlar	.
+
+---The	zinnias	,	Joseph	.
+   Zinyalar	,	Joseph	.
+
+----	That	's	love	,	Jamie	.
+   -	İşte	o	aşk	,	Jamie	.
+
+---I	said	``	Stop	the	car	''	.
+   Arabayı	durdur	dedim	.
+
+---Come	in	a	minute	,	please	.
+   Bir	dakika	içeri	gel	,	lütfen	.
+
+---There	is	no	Sanctuary	.
+   Mabet	yok	.
+
+---He	's	white	...	just	like	you	.
+   Beyaz	biriyle	...	senin	gibi	.
+
+---Then	one	night	,	it	ended	.
+   Sonra	bir	gece	,	sona	erdi	.
+
+---This	evening	I	do	n't	have	time
+   Bu	akşam	hiç	vaktim	yok	.
+
+---Will	you	give	me	some	wine	?
+   Bana	şarap	verecek	misin	?
+
+---Ladies	and	gentlemen	,	this	--
+   Bayanlar	baylar	,	bu	...
+
+---It	's	not	bad	in	England	,	huh	?
+   İngiltere	kötü	bir	yer	değil	sanırım	.
+
+---He	's	lucky	a	customer	's	here	!
+   Ne	şanslı	ki	yanında	müşterisi	var	!
+
+---But	everyone	's	here	...
+   Herkes	burada	...
+
+---''Fairwell	,	Mein	Lieber	Herr	.
+   ``	Elveda	,	Mein	Lieber	Herr	.
+
+---Give	me	a	small	big	one	.
+   Bana	ufak	bir	büyük	versene	.
+
+---I	'm	closing	up	after	tomorrow	.
+   Yarın	işyerimi	kapatıyorum	.
+
+---No	crime	has	been	committed	.
+   İşlenen	bir	suç	yok	işte	.
+
+---Now	what	am	I	gon	na	do	?
+   Şimdi	ne	yapacağım	?
+
+---Please	do	not	misunderstand
+   Lütfen	yanlış	anlamayın	.
+
+---There	's	someone	here	.
+   Burada	birisi	var	.
+
+---What	about	your	nephew	,	Mark	?
+   Yeğenine	ne	diyeceksin	Mark	?
+
+---Black	,	like	you	said	.
+   Siyah	,	dediğin	gibi	.
+
+---Somebody	's	trying	to	kill	me	.
+   Biri	beni	öldürmeye	çalışıyor	.
+
+---This	is	not	your	egg	morning	.
+   Bugün	yumurta	gününüz	değil	.
+
+---I	'm	sorry	,	Katarina	.
+   Özür	dilerim	,	Katarina	.
+
+---Dan	,	listen	to	me	carefully	.
+   Dan	,	beni	dikkatle	dinle	.
+
+---Mrs.	Schmauss	,	would	you	...
+   Bayan	Schmauss	,	acaba	...
+
+---It	's	my	defense	mechanism	.
+   -	Benim	savunma	mekanizmam	bu	.
+
+---They	got	guns	and	200	men	.
+   Silahları	ve	200	adamları	var	.
+
+---EVA-CUATE	YOUR	ASS	OUT	OF	HERE
+   GİT	KENDİNİ	DÜZDÜR
+
+---February	twenty-second	.
+   22	Şubat	.
+
+---What	about	Charlie	Bassett	?
+   -	Ya	Charlie	Bassett	?
+
+---Why	do	n't	you	try	it	,	Barry	?
+   Sen	neden	denemiyorsun	Barry	?
+
+---How	is	the	girl	doing	?
+   Kız	nasıl	?
+
+----	The	pâte	and	the	lamb	.
+   Ezme	ve	kuzu	.
+
+---A	Tokyo	Eiga	Production
+   Bir	Tokyo	Eiga	Filmi	.
+
+---You	're	a	sadistic	fiend	.
+   Sen	sadist	bir	kaçıksın	.
+
+---~	Each	little	bird	that	sings
+   Öten	her	küçük	kuşun
+
+---Hey	,	wait	a	minute	.	Hold	it	.
+   Hey	,	bekle	bir	dakika	.
+
+----	The	door	was	open	.
+   -	Kapı	açıktı	.
+
+---Your	boss	is	missing	?
+   -	Patron	mu	kayıp	?	-	Evet	.
+
+---I	'm	really	sorry	,	Sam	.
+   Çok	üzgünüm	Sam	.
+
+---Good	evening	,	Mr	West	.
+   İyi	akşamlar	bay	West	.
+
+----	By	the	way	,	Walter	...
+   -	Baksana	Walter	.
+
+---Plead	for	these	marsh	rabbits	?
+   Bu	bataklık	tavşanları	için	yalvaracak	mısın	?
+
+---Where	are	they	taking	her	?
+   Onu	nereye	görütürüyorlar	?
+
+---Or	his	woman	,	maybe	.
+   Veya	onun	kadını	belki	.
+
+---He	's	right	,	Mr.	Garrett	.
+   Haklı	,	Bay	Garrett	.
+
+---But	the	songs	are	good	.
+   Ama	şarkılar	iyi	.
+
+---She	's	got	funny	ears	.
+   Kulakları	çok	komik	.
+
+---It	's	your	father	,	is	n't	it	?
+   Baban	,	değil	mi	?
+
+---Yes	,	please	.	Yes	,	Miss	Morgan	.
+   Tamam	,	Bayan	Morgan	.
+
+---They	were	all	crazy	about	him	.
+   Hepsi	onun	için	deli	oluyordu	.
+
+---Welcome	back	.	Welcome	back	.
+   Tekrar	hoş	geldiniz	.
+
+---How	did	you	become	stone	?
+   Nasıl	taşa	dönüştünüz	?
+
+---What	's	this	,	a	game	?
+   Nedir	bu	,	bir	oyun	mu	?
+
+---His	name	is	Oscar	Wilde	.
+   İsmi	Oscar	Wilde	.
+
+---A	cat	that	eats	geckos	.
+   Kertenkele	yiyen	bir	kedi	.
+
+---I	just	wanted	to	surprise	you	.
+   Sadece	sana	sürpriz	yapmak	istedim	.
+
+----	What	are	you	,	a	cop	?
+   -	Nesin	sen	,	polis	mi	?
+
+----	The	first	Tuesday	.
+   -	İlk	salı	.
+
+----	How	about	some	more	coffee	?
+   -Biraz	daha	kahveye	ne	dersiniz	?
+
+---I	've	never	lied	to	him	.
+   Ona	hiç	yalan	söylemedim	.
+
+---Hailing	frequencies	.
+   Selamlama	frekansı	.
+
+---Suddenly	you	just	...
+   Birden	şey	...
+
+---Yang	's	golden	knife	.
+   Yang	altın	bıçağı	!
+
+---Domenico	has	a	degree	!
+   Domenico'nun	derecesi	var	!
+
+----	Willie	,	darling	.	-	Mother	.
+   -	Willie	,	hayatım	.
+
+---Her	name	is	Lisa	Martinson	.
+   Onun	adı	Lisa	Martinson	.
+
+---Shall	I	make	you	happier	?
+   Seni	biraz	daha	mutlu	edeyim	mi	?
+
+---He	's	just	getting	revenge	.
+   O	sadece	intikam	almak	istiyor	.
+
+---Gruber	wo	n't	harm	you	.
+   Gruber	,	sana	zarar	vermeyecek	.
+
+---Rooster	,	she	's	a	baby	.
+   Horoz	,	o	daha	çocuk	.
+
+----	and	have	a	glass	of	wine	.
+   -	Bir	bardak	şarap	iç	.
+
+---Yeah	,	a	real	nightmare	.
+   Tam	bir	kabus	.
+
+---How	will	you	get	by	?
+   Nasıl	geçineceksin	?
+
+---Do	you	speak	English	?
+   İngilizce	konuşuyor	musun	?
+
+---Oh	.	That	's	interesting	.
+   Çok	ilginç	.
+
+---Let	's	remember	what	happened	.
+   Ne	olduğunu	anımsayalım	.
+
+---You	kids	come	here	right	now	.
+   Çocuklar	hemen	buraya	gelin	.
+
+---You	do	n't	even	eat	meals	.
+   Hatta	yemek	yemem	.
+
+---Kirk	,	my	ship	is	disabled	.
+   Kirk	,	benim	gemim	hurdaya	çıktı	.
+
+---I	did	n't	do	anything	wrong	.
+   Ben	yanlış	bir	şey	yapmadım	.
+
+---Maybe	in	another	direction	.
+   Belki	başka	bir	yöne	.
+
+---It	's	so	hot	in	here	.
+   Burası	çok	sıcak	.
+
+
+
+-------List of each sentence with closest sentence-----------------
+
+T---Did	n't	Bill	tell	you	?
+    Bill	size	anlatmadı	mı	?
+
+F---You	are	Xie	Yan	Bei	.
+    Burada	bir	adettir	.
+
+F---Would	you	like	a	cool	drink	?
+    -Size	göre	nedir	peki	?
+
+F---And	she	just	was	n't	like	that	.
+    -	Sorun	değil	.
+
+T---I	do	n't	know	anything	.
+    Hiçbir	şey	bilmiyorum	.
+
+F---The	party	's	already	begun	.
+    -	Hayatta	her	şey	olabilir	.
+
+F---Maybe	you	remember	me	.
+    Bana	hiç	zaman	ayırmıyordu	.
+
+T----	You	,	Johnny	Gannon	?
+    -	Sen	mi	,	Johnny	Gannon	?
+
+F---And	just	look	in	the	room	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+F----	THAT	TREE	THERE	?	WHICH	ONE	?
+    Pardon	,	sizi	nasıl	çağırayım	?
+
+F---Make	them	keep	their	word	.
+    Genelde	daha	fazla	istersiniz	.
+
+F---I	do	n't	want	to	be	dead	!
+    Senin	Triebig	öldü	.
+
+F---I	'm	in	love	with	her	.
+    Onu	utandırdım	.
+
+F---They	did	n't	get	you	.
+    Patronun	değil	.
+
+F---Just	a	moment	,	come	on	...
+    Devir	onu	,	Sapphο	!
+
+F----	Yeah	,	I	'll	tell	him	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---What	could	happen	to	me	?
+    Bana	ne	olabilir	ki	?
+
+F----	Are	these	prosciutti	?
+    Orada	ne	var	?
+
+F---Jesus	,	you	're	changed	.
+    Çoğunu	kurtarıyoruz	.
+
+F---I	do	n't	know	why	I	did	it	.
+    Hiçbir	şey	bilmiyorum	.
+
+F---Face	it	,	you	did	it	to	her	.
+    Evet	,	bağlı	durumda	.
+
+F---Morning	,	Mr	Hackett	.
+    Bay	Stools	.
+
+F---But	you	saw	the	gun	fire	?
+    Şimdi	,	o	silahı	alayım	.
+
+F---Dress	that	line	,	mister	!
+    -	Haydi	,	gidiyoruz	!
+
+F---Poor	fool	,	he	's	dead	,
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+F---It	's	a	flash	in	the	pan	.
+    Bence	o	bir	hipnozcu	.
+
+F---You	want	your	driver	?
+    İyi	misin	?
+
+T---Where	else	could	we	meet	?
+    Başka	nerede	görüşebilirdik	?
+
+F----	You	lying	son	of	a	bitch	!
+    Köpek	gibi	,	değil	mi	?
+
+F---Okay	,	ready	,	come	on	.
+    Oh	,	harika	.
+
+T---That	's	quite	a	responsibility	.
+    -	Bu	büyük	bir	sorumluluk	.
+
+F---I	am	willing	to	learn	.
+    Ve	sen	asansördeydin	.
+
+F----	Well	,	I	'll	see	you	tomorrow	.
+    Yarın	işyerimi	kapatıyorum	.
+
+F----	I	'm	freaking	out	of	here	!
+    Haydi	,	yürüyün	!
+
+F----	Damn	you	,	Thwackum	!
+    Daha	açık	konuş	.
+
+F---Just	let	it	go	,	okay	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F---That	's	a	custom	here	.
+    -	Shokichi	burada	değil	.
+
+F---Where	's	the	treasure	?
+    Bizim	olanı	alacağım	.
+
+F----	All	right	!	-	I	do	n't	know	!
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	They	had	happened	with	you	?
+    Gösteri	gerçekdışıydı	.
+
+F---But	that	's	of	no	consequence	.
+    -	Sorun	değil	.
+
+F----	Across	the	street	.
+    Ve	komşular	için	de	.
+
+F---Yes	,	yes	,	'with	friends	'	.
+    -	Evet	.	O	halde	yanıcıdırlar	.
+
+F---Get	him	another	camera	.
+    Onunla	anlaşabilirim	.
+
+F----	He	drew	a	gun	on	Holliday	.
+    Şimdi	,	o	silahı	alayım	.
+
+F---It	is	as	long	as	I	pay	rent	.
+    Belki	bunu	severim	.
+
+F---The	Tsar	is	calling	.
+    Hiç	kınanmadım	.
+
+F---It	's	more	practical	.
+    -	Gare	de	l'Est'deki	.
+
+F----	No	,	I	do	n't	think	so	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---A	whole	building	disappeared	.
+    Görüşmemiz	iyi	oldu	.
+
+F---I	heard	the	strange	toll	.
+    Bana	ufak	bir	büyük	versene	.
+
+F---Your	ticket	to	Bern	.
+    Baban	,	değil	mi	?
+
+T---Now	,	I	'll	take	that	gun	.
+    Şimdi	,	o	silahı	alayım	.
+
+F---What	gold	is	he	talking	about	?
+    Bunun	senin	kararın	olduğunu	düşündüm	.
+
+F----	It	soothes	the	nerves	.
+    Arkandan	dua	edecek	kimse	yok	.
+
+F---Exactly	,	sir	,	he	must	.
+    2279	pl	,	efendim	.
+
+F---But	only	you	know	that	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+F---I	'm	tired	.	I	'm	so	tired	.
+    -	Sanırım	o	çok	yorgun	.
+
+F---I	ca	n't	stand	it	any	longer	.
+    Kimse	KGB'den	ayrılamaz	.
+
+F---Will	you	be	back	for	dinner	?
+    Hatta	yemek	yemem	.
+
+F---What	was	the	last	one	?
+    -	Sorun	nedir	?
+
+T---Very	glad	to	meet	you	,	sir	.
+    Sizinle	tanıştığıma	çok	sevindim	efendim	.
+
+F----	My	what	's	expired	?
+    -	Onlar	sana	mı	oldu	?
+
+F---We	did	not	approach	you	.
+    Mayonez	yok	.
+
+F---Tie	me	up	,	quick	!	Come	on	!
+    -	Niye	bu	kadar	kızdın	?
+
+F---There	's	a	catch	somewhere	.
+    Bana	bunu	soracaksın	.
+
+T---But	he	never	found	the	city	.
+    Ama	hiçbir	zaman	şehri	bulamamıştır	.
+
+F---Then	why	are	you	following	me	?
+    Bu	nasıl	olur	?
+
+F---Flatter	than	a	sand	dab	.
+    -	Buraya	girmeme	izin	var	mı	?
+
+T---I	said	gim	me	some	money	.
+    Bana	para	ver	dedim	.
+
+F----	You	do	n't	know	me	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Nevertheless	,	I	'm	going	.
+    Hiçbir	şeyi	merak	etmeyin	.
+
+F---I	mean	this	,	this	,	this	.
+    -	İşte	,	sikkelerin	.
+
+F---Handsome	,	want	to	come	?
+    Sizin	deyiminizle	,	neden	olmasın	?
+
+F---You	must	know	something
+    Sinematografi	KAZUO	YAMADA
+
+F---Oh	,	my	God	!	They	're	towing	us	!
+    Tanrım	şu	işe	bakın	,	millet	.
+
+F---We	've	had	a	tactic	shoot	here	.
+    -Yanlış	giden	bir	şey	var	.
+
+F---I	'll	be	much	obliged	.
+    Bir	şeyler	sorun	.
+
+F---So	you	're	throwing	it	away	.
+    -	Hayatta	her	şey	olabilir	.
+
+F---They	did	not	harm	me	.
+    Belki	başka	bir	yöne	.
+
+F---You	do	n't	have	to	do	this	.
+    Patronun	değil	.
+
+F---He	's	upstairs	.	-	Jujiro	...
+    Bayan	Schmauss	,	acaba	...
+
+F---You	turned	him	down	?
+    İstememek	mi	isteyememek	mi	?
+
+T---Good	evening	,	Mr	West	.
+    İyi	akşamlar	bay	West	.
+
+F---How	'd	you	get	your	Austin	?
+    Kıbrıs	adına	kim	konuşacak	?
+
+F---That	night	they	hunted	us	!
+    Bölümlerinizde	kalın	!
+
+F---You	want	trouble	too	?
+    Çar	Ivan'la	sorunun	mu	var	?
+
+F---Talk	about	beef	on	a	hook	.
+    Seni	yakında	ararım	.
+
+T---Food	for	a	hungry	man	.
+    Aç	adama	yemek	.
+
+F---Loophole	,	that	's	not	the	boss	.
+    -	Patron	mu	kayıp	?	-	Evet	.
+
+F----	Oh	...	a	social	call	.
+    Haydi	,	git	istedigini	yap	.
+
+F---Do	n't	you	call	your	office	?
+    İyi	misin	?
+
+T---That	's	what	Agnes	said	.
+    Agnes'in	dediği	gibi	.
+
+F---What	happened	to	it	?
+    Ne	oldu	?
+
+F---It	could	happen	any	time	.
+    Mayonez	yok	.
+
+F---Were	you	going	to	die	alone	?
+    Onu	nereye	görütürüyorlar	?
+
+T---Fefè	,	what	lovely	flowers	.
+    Fefe	,	ne	güzel	çiçekler	bunlar	.
+
+F----There	is	something	wrong	.
+    Ben	yanlış	bir	şey	yapmadım	.
+
+F---This	happened	in	Bisbee	.
+    O	tersaneden	geçiniyoruz	.
+
+F---Most	of	them	we	save	.
+    Sizin	deyiminizle	,	neden	olmasın	?
+
+F---Then	the	bar	is	open	.
+    Burası	yeri	değil	.
+
+T---No	,	no	,	no	,	no	,	no	,	no	.
+    Hayır	,	hayır	,	hayır	.
+
+F---Where	's	that	coming	from	?
+    Bu	nasıl	olur	?
+
+F---What	a	game	we	have	tonight	!
+    Nedir	bu	,	bir	oyun	mu	?
+
+F----Yes	.	Is	he	listening	?
+    -	Daha	fazla	dinlemek	istemiyorum	.
+
+F---Look	at	these	curls	.
+    Beni	izleyin	beyler
+
+T---That	's	a	very	nice	name	.
+    Bu	çok	güzel	bir	isim	.
+
+F---I	do	n't	want	that	kind	ofhelp	.
+    -	Sorun	değil	.
+
+F----	I	wanted	to	see	you	again	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	serving	alcohol	to	minors	.
+    Onlarda	yok	.
+
+T----	Good	evening	,	Hunter	.
+    -	İyi	akşamlar	Hunter	.
+
+F---Here	you	are	.	I	found	you	.
+    Ben	ve	ben	,	güvertedeyiz	.
+
+T---Believe	me	,	he	is	okay	.
+    İnanın	bana	,	bir	şeyi	yok	.
+
+F---What	happened	?	-	Nothing
+    Gösteri	gerçekdışıydı	.
+
+F----	Somebody	must	have	seen	it	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Ca	n't	you	leave	her	?
+    Harika	değil	mi	?
+
+F---What	was	that	all	about	?
+    Ne	var	yani	fstksa	?
+
+F---She	turned	suddenly	.
+    Hannibal	!
+
+F---I	've	made	new	associations	.
+    Ben	yanlış	bir	şey	yapmadım	.
+
+F---I	say	string	them	all	up	.
+    Saat	kaç	?
+
+F---Carry	on	,	my	wayward	sons	.
+    Kabul	et	,	bunu	ona	sen	yaptın	.
+
+F---Sure	,	but	you	're	quite	right	.
+    -	Sorun	değil	.
+
+T---39	Artesia	.	Ten-four	.
+    39	Artesia	.	10-4	.
+
+F----	I	'm	eating	,	for	chrissake	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	've	never	seen	her	before	.
+    Ama	o	öyle	değildi	.
+
+F---I	never	had	run	away	.
+    Hayır	güldün	.
+
+F---It	's	gon	na	be	a	mean	cat	.
+    Kertenkele	yiyen	bir	kedi	.
+
+F---They	're	all	excited	.
+    Her	an	olabilir	.
+
+T---Welcome	back	.	Welcome	back	.
+    Tekrar	hoş	geldiniz	.
+
+F---There	we	are	.	Do	you	like	it	?
+    -Neden	?	-Benzine	ihtiyacı	var	.
+
+F---Yeah	,	you	do	the	same	.
+    Evet	,	gerçekten	öyle	.
+
+F---You	are	an	idiot	,	it	's	pepper	!
+    Sizi	bekliyorum	,	sör	.
+
+F---Glad	to	see	you	anyway	.
+    Şu	adamcağızın	haline	bak	.
+
+F----	It	does	n't	pay	much	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Ah	,	he	was	a	good	one	.
+    Oh	,	harika	.
+
+F---I	'm	glad	I	ran	into	you	.
+    Çok	sevindim	,	Betsy	.
+
+F---I	have	a	gas	stove	...
+    Kesin	kes	öyle	.
+
+F---I	'll	allow	you	that	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+T---I	've	never	lied	to	him	.
+    Ona	hiç	yalan	söylemedim	.
+
+F---You	'll	all	end	up	like	this	!
+    İşte	küpen	!
+
+F---What	would	you	tell	them	?	Me	?
+    -	Bunu	nasıl	biliyorsunuz	?
+
+F---General	,	I	'm	hungry	.
+    Ben	Şans	,	gardenyacı	bahçıvanım	.
+
+T----	You	see	him	,	David	?	-	No	.
+    -	Onu	görüyor	musun	David	?
+
+F---We	've	come	as	far	as	we	can	.
+    -	Sorun	değil	.
+
+F---I	should	have	asked	you	first	.
+    Onu	utandırdım	.
+
+F----	How	many	lumps	?	-	No	lumps	.
+    Yataklı	vagonun	tuvaletinde	.
+
+F---I	have	another	call	to	make	.
+    Burası	size	göre	değil	.
+
+F---Not	any	cause	,	but	any	person	.
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+F----	Let	's	go	see	a	movie	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---You	'll	have	to	ask	like	this	.
+    -	Sorun	değil	.
+
+F----	Ai	n't	hard	liquor	,	is	it	?
+    En	ufak	bir	kaybı	bile	göze	alamayız	.
+
+F----	Where	would	you	go	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Every	night	a	different	part	.
+    Sonra	bir	gece	,	sona	erdi	.
+
+F---Some	of	the	sheep	got	ill	.
+    Artık	bize	ihtiyacı	yok	.
+
+F---Oh	,	thank	you	,	Miss	Scarlett	.
+    Her	şey	için	teşekkürler	.
+
+F---Ca	n't	get	his	tail	hook	down	.
+    -	Evde	yiyoruz	.
+
+F---Why	did	n't	you	call	me	?
+    Bana	ne	olabilir	ki	?
+
+F---Your	stove	is	smoking	.
+    Kesin	kes	öyle	.
+
+F---What	have	you	done	now	?
+    Ne	şeytanlık	peşindesin	?
+
+T---''Fairwell	,	Mein	Lieber	Herr	.
+    ``	Elveda	,	Mein	Lieber	Herr	.
+
+T---A	cat	that	eats	geckos	.
+    Kertenkele	yiyen	bir	kedi	.
+
+F----	Victories	?	There	are	none	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	'll	show	you	.	Come	on	.
+    Burası	yeri	değil	.
+
+T---You	do	n't	care	about	Natalie	.
+    Natalie	umurunda	değil	.
+
+F---Too	bad	I	did	n't	love	you	.
+    Bir	tane	var	ama	kötü	durumda	.
+
+F---You	must	find	Fang	Junzhao
+    Sinematografi	KAZUO	YAMADA
+
+F---I	think	they	're	here	.
+    Sanırım	var	.
+
+F---You	've	grown	tired	of	me	.
+    -	Sanırım	o	çok	yorgun	.
+
+F---Calloway	,	you	expect	too	much	.
+    Hayır	,	sorun	uyumaktır	.
+
+F---I	'm	a	stranger	here	myself	.
+    Buna	inanmayacaksın	.
+
+F---How	do	you	know	that	?
+    Nasıl	geçineceksin	?
+
+F---will	be	grounded	in	truth	.
+    -Jessie	nerede	?	-Evde	kaldı	.
+
+F---From	the	olonel	's	room	!
+    Onu	götüremezsiniz	!
+
+F---Oh	,	I	didn`t	say	that	.
+    Oh	,	harika	.
+
+F----	How	did	you	get	here	?
+    Gösteri	gerçekdışıydı	.
+
+F---She	's	a	very	peculiar	girl	.
+    Kız	nasıl	?
+
+F---Special	delivery	,	sir	.
+    -	Evet	efendim	.
+
+F---It	's	hardly	ever	used	now	.
+    -	Bu	kadar	kızamazsın	.
+
+F---Do	n't	start	that	again	.
+    Mayonez	yok	.
+
+F---That	's	easy	for	you	to	say	.
+    Bu	karar	kolay	değil	.
+
+F----	Until	the	last	drop	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---There	,	is	n't	that	more	cozy	?
+    Senin	de	sonun	tıpkı	böyle	olacak	!
+
+F---So	,	what	has	happened	?
+    Sen	mi	yaptın	,	Rutledge	?
+
+F---I	'll	keep	it	with	me	.
+    Bana	bunu	soracaksın	.
+
+T----	The	first	Tuesday	.
+    -	İlk	salı	.
+
+F---You	are	here	to	work	.
+    Mayonez	yok	.
+
+F---They	're	all	over	the	streets	.
+    Burada	birisi	var	.
+
+F----	Erica	,	it	's	our	protection	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---Come	on	,	get	up	there	!
+    Haydi	,	yürüyün	!
+
+F---I	'll	get	your	hat	,	sir	.
+    -	Evet	efendim	.
+
+T---Gruber	wo	n't	harm	you	.
+    Gruber	,	sana	zarar	vermeyecek	.
+
+F---You	're	going	to	have	respect	.
+    Şimdi	düşünün	.
+
+F----	Knock	on	the	door	.
+    -	Kapı	açıktı	.
+
+F---Promise	me	you	wo	n't	vanish	.
+    Şu	şortları	bana	ver	.
+
+F----	He	's	being	a	good	host	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---Thank	you	very	much	.	I	...
+    Çok	teşekkürler	.	Ben	...
+
+T---This	is	n't	the	place	.
+    Burası	yeri	değil	.
+
+F---You	ca	n't	do	that	to	me	!
+    Devir	onu	,	Sapphο	!
+
+F---The	Morlocks	moved	it	.
+    Anlat	biraz	.
+
+F---He	likes	to	be	scoffed	,	eh	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F----	Why	are	you	going	out	?
+    -	Niye	bu	kadar	kızdın	?
+
+F---As	many	as	you	like	.
+    Çok	iyi	.
+
+F---What	would	your	mother	say	?
+    Siletsky'yi	ne	yaptınız	?
+
+F---And	I	say	he	's	a	hypnotist	.
+    Ve	artık	temizsin	.
+
+F---I	wish	I	could	stay	.
+    Keşke	hiç	kaçmasaymışım	.
+
+F---The	man	likes	screwdrivers	.
+    Kimse	KGB'den	ayrılamaz	.
+
+F----	What	arrangements	?
+    Merdivendekini	görüyor	musun	?
+
+F---Imbra	is	highest	god	of	all	.
+    -	O	da	kendini	tanrı	sanmış	.
+
+F---_	I	ca	n't	make	you	do	that	.
+    Mayonez	yok	.
+
+F---You	go	ahead	and	tell	'em	.
+    Burada	birisi	var	.
+
+F----	I	'm	a	squaw	man	,	myself	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Instead	,	you	split	with	him	.
+    Bugün	daha	korkunç	görünüyordur	.
+
+F----	Well	,	talk	about	it	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Wilkie	,	was	n't	that	good	?
+    -Neden	?	-Benzine	ihtiyacı	var	.
+
+F---That	's	my	ruling	,	by	Gobs	!
+    Çok	ilginç	.
+
+F---Listen	,	if	I	ask	him	to	...
+    Bak	ne	yaparız	.
+
+F---And	you	were	on	the	lift	.
+    Şu	kıvrımlara	bak	.
+
+F---Here	's	a	picture	window	.
+    Şu	kıvrımlara	bak	.
+
+F---It	was	to	be	expected	.
+    Her	an	olabilir	.
+
+F---Not	to	die	in	there	.
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+T---Will	you	give	me	some	wine	?
+    Bana	şarap	verecek	misin	?
+
+F---Know	that	I	am	a	king	:
+    Beni	mi	görmek	istiyor	?
+
+T----	That	's	love	,	Jamie	.
+    -	İşte	o	aşk	,	Jamie	.
+
+F---There	's	just	one	hitch	...
+    Bence	o	burada-
+
+F----	Come	with	me	to	Berzano	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	Surely	just	an	opinion	?
+    -	Neden	bağırıyorsun	öyle	?
+
+F---and	they	were	not	sham	.
+    Kendisi	çok	acayip	.
+
+F----	Orange	juice	and	coffee	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	Not	a	healer	but	an	angel	!
+    Üç	gündür	ortalarda	yoksun	.
+
+F---And	you	look	for	him	here	?
+    Ne	var	yani	fstksa	?
+
+F---No	one	ever	leaves	the	KGB	.
+    Aklınızdan	ne	geçiyor	?
+
+F---Pull	the	black	ever	!
+    -	Bunu	nasıl	biliyorsunuz	?
+
+F---We	live	off	that	shipyard	.
+    Hiç	kınanmadım	.
+
+F----	That	's	all	right	.	Thank	you	.
+    Çok	teşekkürler	.	Ben	...
+
+F---What	are	you	doing	here	?
+    Nasıl	geçineceksin	?
+
+F---Where	did	he	just	go	?
+    İstememek	mi	isteyememek	mi	?
+
+F---He	made	me	remember	.
+    Bana	hiç	zaman	ayırmıyordu	.
+
+F---Do	n't	worry	,	it	's	nothing	.
+    -	Eklenecek	bir	şey	yok	.
+
+F---Mr	Mendez	,	that	man	's	a	beast	.
+    -Attan	in	.
+
+T---A	Tokyo	Eiga	Production
+    Bir	Tokyo	Eiga	Filmi	.
+
+F----	What	would	you	call	it	?
+    Gösteri	gerçekdışıydı	.
+
+F---What	will	I	do	,	then	?
+    Sen	mi	yaptın	,	Rutledge	?
+
+T---I	meant	Don	Vincenzo	.
+    Ya	Don	Vincenzo	?
+
+F---I	do	n't	see	why	not	,	Gabriele	.
+    -	Eklenecek	bir	şey	yok	.
+
+T---That	's	up	to	you	,	Sam	.
+    Bu	sana	bağlı	Sam	.
+
+T---Today	it	must	look	dreadful	.
+    Bugün	daha	korkunç	görünüyordur	.
+
+F---``	Do	you	have	money	?	''	``	No	.	''
+    Bana	para	ver	dedim	.
+
+F---You	're	wasting	time	resisting
+    Onu	utandırdım	.
+
+F---Now	,	get	the	picture	.
+    Burada	bir	adettir	.
+
+F---The	House	of	Morgan	.
+    Tamam	,	Bayan	Morgan	.
+
+F----	l	think	she	's	very	tired	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	What	's	she	gon	na	wear	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	have	n't	seen	your	plan	yet	.
+    -	Sorun	değil	.
+
+T---We	've	borrowed	a	child	.
+    Bir	çocuğu	ödünç	aldık	.
+
+F---Sophie	's	too	stuck	up	for	me	.
+    Oku	bakalım	başka	ne	diyor	.
+
+F---as	if	you	're	lisping
+    Sinematografi	KAZUO	YAMADA
+
+F---I	have	recorded	enough	here	.
+    Bir	şeyler	sorun	.
+
+F---What	do	you	think	this	is	?
+    Bu	nasıl	olur	?
+
+F---You	do	not	want	to	eat	?
+    -	Hangisi	?
+
+T---Arthur	,	darling	,	do	n't	fuss	.
+    Telaşlanma	Arthur	.
+
+F---Not	worth	all	that	killing	.
+    Şu	şortları	bana	ver	.
+
+F---You	would	marry	again	.
+    -	İyi	fikir	.
+
+T---What	sort	of	friend	?
+    Ne	çeşit	bir	arkadaş	?
+
+F---I	thought	about	it	myself	.
+    Sanırım	var	.
+
+F---I	have	thought	about	that
+    Bence	o	burada-
+
+T---No	but	when	I	do	this	...
+    Hayır	ama	ne	zaman	bunu	yapsam-
+
+F---This	is	a	traveling	pass	.
+    Bir	şeyler	sorun	.
+
+F---Face	the	flag	of	our	country	.
+    Bayan	Schmauss	,	acaba	...
+
+T---Yes	,	please	.	Yes	,	Miss	Morgan	.
+    Tamam	,	Bayan	Morgan	.
+
+T---And	,	pick	up	Brown	himself	.
+    Brown'ı	da	getir	.
+
+F---You	've	no	right	to	write	this	!
+    Telefona	ne	gerek	var	?
+
+F---It	's	my	own	neck	,	so	it	is	.
+    -	Merci	,	mademoiselle	.
+
+F---Wally	,	go	see	the	fights	.
+    Belki	başka	bir	yöne	.
+
+F---No	one	likes	the	boss	.
+    Öyle	demek	istemedim	.
+
+F---Surely	,	but	in	vain	.
+    Genelde	daha	fazla	istersiniz	.
+
+F---Give	me	cabbage	too	.
+    Şu	şortları	bana	ver	.
+
+F---How	are	you	,	how	you	been	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F----	At	the	Gare	de	l'Est	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---You	usually	want	longer	.
+    Artık	buna	dayanamadım	.
+
+F----	or	a	crackpot	!	-	Please	!
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F---I	'll	take	care	of	that	.
+    Onu	bir	görmeliydin	.
+
+F---Are	you	leaving	?	-	I	am	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---He	's	carried	her	away	.
+    Onu	utandırdım	.
+
+T----	Hal	,	are	you	all	right	?
+    -	Hal	iyi	misin	?
+
+F---Know	something	,	Tippin	?
+    Belki	başka	bir	yöne	.
+
+F---History	will	prove	you	an	ass	.
+    -	Son	damlasına	kadar	.
+
+F----	Is	someone	with	you	?
+    -	Onlar	sana	mı	oldu	?
+
+F---He	ca	n't	.	He	just	ca	n't	.
+    -	Sorun	değil	.
+
+F---That	goddam	gun	jammed	!
+    Şimdi	,	o	silahı	alayım	.
+
+T---What	's	this	,	a	game	?
+    Nedir	bu	,	bir	oyun	mu	?
+
+F---The	girls	went	nuts	.
+    Kız	nasıl	?
+
+T---No	,	just	some	milk	and	fruit	.
+    Hayır	,	süt	ve	meyve	yeterli	.
+
+F----	Is	she	walking	around	?
+    Isobel	,	içeri	gelebilir	miyim	?
+
+T---The	tennis	courts	are	empty	.
+    Tenis	kortları	bomboş	.
+
+F---Let	's	be	having	it	.	Can	I	go	?
+    -	O	iyi	olacak	.
+
+F---Mary	,	my	sister	's	Mary	.
+    Ülkenizin	bayrağına	yüzünüzü	dönün	.
+
+F----	I	ca	n't	leave	Jan	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---That	's	what	I	call	a	pig	.
+    Bu	güzel	bir	domuz	.
+
+T---Mark	,	can	you	do	me	a	favor	?
+    Mark	,	bana	bir	iyilik	yapabilir	misin	?
+
+F---They	were	even	on	that	score	.
+    Vay	be	!	Ne	hallere	düştün	.
+
+T---This	is	the	secret	Germany	.
+    Gizli	Almanya	bu	.
+
+F---That	's	for	dang	sure	.
+    Bir	şeyler	sorun	.
+
+F---What	did	you	do	with	Siletsky	?
+    Ne	oldu	?
+
+F---I	think	maybe	she	should	-
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---What	the	devil	are	you	up	to	?
+    Ne	olduğunu	bulacağız	.
+
+F----	That	's	a	good	idea	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Scared	the	hell	outta	you	.
+    Onlarda	yok	.
+
+F---Did	he	have	any	children	?
+    Beni	çocuk	mu	sandın	?
+
+F---Go	down	the	road	a	half	mile	.
+    Gösteri	gerçekdışıydı	.
+
+F----	Honey	,	we	'll	sell	the	house	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---You	do	n't	mind	if	I	do	?
+    -	Yürüyebiliyor	mu	?
+
+F---She	's	not	your	boss	.
+    Öyle	demek	istemedim	.
+
+F---Everything	'll	be	all	right	.
+    Her	an	olabilir	.
+
+F---She	is	now	completely	mine
+    İşte	küpen	!
+
+F---You	do	n't	mind	,	do	you	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F----	Are	they	up	there	?
+    Gösteri	gerçekdışıydı	.
+
+F---Maybe	I	feel	that	way	,	too	.
+    -	Eklenecek	bir	şey	yok	.
+
+F---How	is	this	possible	?
+    Ne	var	yani	fstksa	?
+
+F---Look	,	you	do	n't	listen	.
+    Marcy	,	zırlama	zamanı	değil	.
+
+T---Dan	,	listen	to	me	carefully	.
+    Dan	,	beni	dikkatle	dinle	.
+
+T---I	'm	really	sorry	,	Sam	.
+    Çok	üzgünüm	Sam	.
+
+F---now	you	are	going	to	get	it
+    Sinematografi	KAZUO	YAMADA
+
+F---He	was	onto	something	.
+    Bu	Sachiko	olmalı	.
+
+F----	What	are	you	serving	?
+    Gösteri	gerçekdışıydı	.
+
+F---That	's	what	I	want	to	know	.
+    Hiçbir	şey	bilmiyorum	.
+
+T---Thank	Benson	for	his	shirt	.
+    Benson'a	gömlek	için	teşekkür	et	.
+
+F----Know	any	prayers	,	my	friend	?
+    Eee	?	Oh	!	Bu	...
+
+F---Goodbye	,	sweetheart	!
+    Hayatta	bilemezsiniz	.
+
+F---And	now	on	to	the	wine	!
+    Bana	şarap	verecek	misin	?
+
+F----	You	're	darn	right	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---No	need	to	add	to	it	.
+    Hayır	,	sorun	uyumaktır	.
+
+T---Mix	me	another	one	,	Jerry	.
+    Bana	bir	tane	daha	hazırla	Jerry	.
+
+F----	Two	like	me	and	you	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---That	telephone	again	?
+    Yine	mi	telefon	?
+
+T---It	's	not	bad	in	England	,	huh	?
+    İngiltere	kötü	bir	yer	değil	sanırım	.
+
+F---Yeah	,	Sandra	's	here	.
+    Niye	dövüştüğümüzü	ne	niye	öldüğümüzü	.
+
+F---Ca	n't	you	talk	to	them	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F---Away	from	Rutland	's	.
+    -	İyi	fikir	.
+
+F---Nay	...	...	butthoudidstlaugh	.
+    -	Ben	sadece	...
+
+T---I	'm	so	proud	of	you	,	Mah-Li	.
+    Seninle	gurur	duyuyorum	,	Mah-Li	.
+
+F---He	has	a	busy	tongue	.
+    Ona	söyleyemem.Henüz	olmaz	.
+
+F---We	can	bring	that	along	too	.
+    Mayonez	yok	.
+
+F----All	right	,	let	's	go	!
+    Devir	onu	,	Sapphο	!
+
+F---They	took	a	chance	and	lost	.
+    -Yanlış	giden	bir	şey	var	.
+
+F---Obviously	she	saw	us	.
+    Ama	o	öyle	değildi	.
+
+F---You	're	a	regular	hippie	,	huh	?
+    İçinde	olması	lazım	.
+
+F---Why	did	he	kill	a	man	?
+    -	Neden	bağırıyorsun	öyle	?
+
+F---You	ca	n't	take	him	away	!
+    Hiç	birşey	!
+
+F---Will	you	have	an	eggnog	?
+    Aldırmazsınız	değil	mi	?
+
+T---I	am	going	home	at	once	.
+    Hemen	eve	gidiyorum	.
+
+F---The	teacher	and	his	pupil	.
+    -	Bugün	kimseyle	konuşacak	vaktim	yok	.
+
+F---Gum	.	Gum	took	a	long	time	.
+    -	Eklenecek	bir	şey	yok	.
+
+F---Hey	...	do	n't	you	get	it	?
+    Hey	,	o	benim	ceketim	!
+
+F---I	do	n't	know	what	's	happening	.
+    Hiçbir	şey	bilmiyorum	.
+
+F---Just	the	illusion	of	life	.
+    -Jessie	nerede	?	-Evde	kaldı	.
+
+F----	You	can	just	bet	it	does	n't	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---He	's	just	getting	revenge	.
+    O	sadece	intikam	almak	istiyor	.
+
+F---I	know	about	America	.
+    Ben	Amerika'ya	gittim	.
+
+F----	Making	trouble	already	?
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F---Having	hell	of	a	time	.
+    Onlarda	yok	.
+
+F---Goodbye	for	a	whíle	.
+    -Attan	in	.
+
+F----	Merci	,	mademoiselle	.
+    Gösteri	gerçekdışıydı	.
+
+F----	Glou-kester	Harbour	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---It	is	the	way	of	the	universe	.
+    -	Hayatta	her	şey	olabilir	.
+
+F---Are	you	hurt	?	What	happened	?
+    -	Sen	iyi	misin	?
+
+F---Help	us	,	Father	Simon	.
+    Onu	yaninda	götürmüs	.
+
+F---Stop	it	,	you	son	of	a	bitch	!
+    Köpek	gibi	,	değil	mi	?
+
+F---There	's	nothing	on	her
+    Sinematografi	KAZUO	YAMADA
+
+F---Yes	,	I	hear	you	,	I	hear	you	.
+    Evet	,	hadi	,	gidelim	.
+
+F----Stay	where	you	are	!
+    İşte	küpen	!
+
+T---Do	you	speak	English	?
+    İngilizce	konuşuyor	musun	?
+
+F---Stay	at	your	stations	!
+    Nerede	saklıyorsun	?
+
+F---Shall	I	scare	them	now	?
+    Biliyor	musun	Tippin	?
+
+F---I	was	sixteen	,	then	.
+    Burada	bir	adettir	.
+
+F---Campion	,	have	her	watched	.
+    Onu	bir	görmeliydin	.
+
+F---I	told	you	no	calls	today	.
+    -	Daha	fazla	dinlemek	istemiyorum	.
+
+F---So	you	wan	na	party	,	honey	?
+    Güle	güle	,	tatlım	!
+
+F----1	0-4	.	Tell	them	to	move	in	.
+    Marcy	,	zırlama	zamanı	değil	.
+
+F---I	'm	gon	na	bleed	you	,	boy	.
+    Ben	öyle	bir	yardımı	istemiyorum	.
+
+T---The	decision	is	not	easy	.
+    Bu	karar	kolay	değil	.
+
+F---We	just	loved	him	to	death	.
+    Ama	ölümleri	açıklamıyor	.
+
+T----	It	was	n't	done	,	sir	.
+    -	Yapılmadı	,	efendim	.
+
+F---Your	wife	's	learning	fast	.
+    Isınman	lazım	.
+
+F----	I	'd	like	to	try	it	sometime	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Are	you	feeling	all	right	?
+    Yaklaşsana	!	Ne	dikiliyorsun	orada	?
+
+T----	How	about	some	more	coffee	?
+    -Biraz	daha	kahveye	ne	dersiniz	?
+
+T---Oh	.	That	's	interesting	.
+    Çok	ilginç	.
+
+F---We	have	a	table	over	here	.
+    Burada	birisi	var	.
+
+T---Rooster	,	she	's	a	baby	.
+    Horoz	,	o	daha	çocuk	.
+
+F---6:00	in	the	morning	.
+    -	Herkese	günaydın	.
+
+T----	Anya	,	say	goodbye	to	Harry	.
+    -	Anya	,	Harry'e	veda	et	.
+
+F----	Darling	,	we	'll	go	away	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	'm	tired	of	eating	bear	stew	.
+    Kendisi	teslim	oldu	.
+
+F---All	right	,	enough	already	.
+    -	Eklenecek	bir	şey	yok	.
+
+F---I	'll	be	tied	up	,	then	.
+    Evet	,	amcamız	olur	.
+
+T---But	they	may	be	home	now	.
+    Belki	eve	dönmüşlerdir	şimdi	.
+
+F---I	was	n't	talking	to	you
+    Ben	acıktım	.
+
+F---Please	leave	before	then
+    Lütfen	yanlış	anlamayın	.
+
+T---Give	me	a	small	big	one	.
+    Bana	ufak	bir	büyük	versene	.
+
+F---No	,	and	you	know	it	.
+    Hayır	,	sorun	uyumaktır	.
+
+F----	I	feel	all	right	,	sir	.
+    -	Yapılmadı	,	efendim	.
+
+F----	I	guess	so	,	if	we	got	'em	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---L	'm	Chance	,	the	gardener	.
+    Ben	Amerika'ya	gittim	.
+
+F---You	paid	Nick	3	bucks	.
+    İkinize	de	teşekkürler	.
+
+F---The	Bishop	loved	her	?	!
+    Ölmek	istemiyorum	!
+
+F----	Certainly	we	can	talk	.
+    Daha	açık	konuş	.
+
+T---Thank	God	,	it	worked	.
+    Tanrı'ya	şükür	becerdim	.
+
+F---I	feel	like	I	'm	in	a	museum	.
+    Benden	bıktın	.
+
+F----	l	do	n't	want	him	killed	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---Now	what	am	I	gon	na	do	?
+    Şimdi	ne	yapacağım	?
+
+F---Why	we	fought	or	why	we	died	.
+    -	Niye	bu	kadar	kızdın	?
+
+F---I	'll	wait	for	you	,	sir	.
+    2279	pl	,	efendim	.
+
+F---Where	are	you	going	?
+    Aldırmazsınız	değil	mi	?
+
+F---Oh	,	that	's	marvellous	!
+    Devir	onu	,	Sapphο	!
+
+F---Swell	.	I	'm	hungry	as	a	dog	.
+    Köpek	gibi	,	değil	mi	?
+
+F---Where	'd	you	steal	them	?
+    O	zaman	ne	istiyorsun	?
+
+T---He	's	right	,	Mr.	Garrett	.
+    Haklı	,	Bay	Garrett	.
+
+F---Look	,	Marta	,	that	's	Calamo	...
+    -	Merci	,	mademoiselle	.
+
+F---THIS	LOUT	HAS	BEEN	BEHAVING
+    Sinematografi	KAZUO	YAMADA
+
+F---Skinny	people	are	happy	...
+    Daha	rahat	.
+
+F---I	'm	sending	you	,	Lieutenant	.
+    Tamam	,	yeter	.
+
+F----	I	can	only	die	once	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Ask	for	them	,	if	you	wish	.
+    Keşke	hiç	kaçmasaymışım	.
+
+F----	The	fight	ai	n't	set	yet	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---Do	n't	worry	,	I	wo	n't	rape	you	.
+    Merak	etme	,	ırzına	geçmeyeceğim	.
+
+F---You	have	no	idea	at	all	.
+    Gerçekten	iyi	fikir	.
+
+F---Do	n't	worry	about	that	girl	.
+    Kız	nasıl	?
+
+F----	Go	right	,	it	's	faster	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---So	you	kidnapped	him	.
+    Bunun	senin	kararın	olduğunu	düşündüm	.
+
+F----	Sure	.	Are	you	all	right	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	've	been	wrestling	there	.
+    Şu	kıvrımlara	bak	.
+
+F---Yes	,	police	inspector	Ducros	.
+    -	Nesin	sen	,	polis	mi	?
+
+F---Send	that	elevator	back	!
+    -Lütfen	Bayan	Dudley	!
+
+T---Suddenly	you	just	...
+    Birden	şey	...
+
+F---Do	n't	talk	about	it	anymore	.
+    Artık	buna	dayanamadım	.
+
+T----	I	'm	sorry	,	Pop	,	I	...
+    -	Üzgünüm	baba	,	ben	...
+
+F---Been	around	here	a	while	?
+    O	zaman	ne	istiyorsun	?
+
+F----	Shokichi	is	n't	here	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	I	'm	here	to	rescue	you	.
+    Kendisi	teslim	oldu	.
+
+F---*	A	fate	I	do	n't	deserve	*
+    Artık	bize	ihtiyacı	yok	.
+
+F---You	also	have	a	look	at	her	.
+    Peltekmişsiniz	gibi	yapacaksınız	.
+
+T---February	twenty-second	.
+    22	Şubat	.
+
+F----	Everything	can	be	overcome	.
+    Gösteri	gerçekdışıydı	.
+
+T---Where	's	the	patient	?
+    Hasta	nerde	?
+
+F---Mille	pardons	,	madame	.
+    -	Hayatta	her	şey	olabilir	.
+
+F---I	do	n't	know	what	madam	wants	.
+    -	Sorun	değil	.
+
+F---I	'll	come	back	anyway	.
+    O	tersaneden	geçiniyoruz	.
+
+F---Nice	little	contraption	.
+    Ve	o	da	bana	derdi	ki	...
+
+F----	Nadya	,	what	happened	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	Yes	,	we	'll	see	the	sea
+    En	azından	bu	konuda	eşittiler	!
+
+T---Kirk	,	my	ship	is	disabled	.
+    Kirk	,	benim	gemim	hurdaya	çıktı	.
+
+F---I	wo	n't	forget	this	pig	.
+    Bu	güzel	bir	domuz	.
+
+F---The	crowd	is	going	wild	.
+    -Attan	in	.
+
+T---Hey	,	that	's	my	coat	!
+    Hey	,	o	benim	ceketim	!
+
+T---Oh	,	but	Lincoln	's	dead	.
+    Oh	,	ama	Lincoln	öldü	.
+
+T---Cinematography	by	KAZUO	YAMADA
+    Sinematografi	KAZUO	YAMADA
+
+F---I	did	n't	hear	you	come	in	.
+    Ve	artık	temizsin	.
+
+T---Maybe	in	another	direction	.
+    Belki	başka	bir	yöne	.
+
+T---It	's	so	hot	in	here	.
+    Burası	çok	sıcak	.
+
+F---Good	evening	,	Miss	Bride	.
+    Hocam	,	annemle	babam	boşandı	,	hangi	adresi	yazayım	?
+
+F---Where	I	first	saw	you	.
+    Onu	utandırdım	.
+
+F---Want	some	toilet	paper	?
+    -Yaptım	,	gördün	mü	?
+
+F---But	with	so	few	men	.
+    Oku	bakalım	başka	ne	diyor	.
+
+F---It	was	n't	in	the	back	room	.
+    Burası	yeri	değil	.
+
+F---I	'll	get	you	,	you	rat	!
+    Sadece	bir	saniye	,	tamam	mı	?
+
+F---Hold	the	mayonnaise	.
+    Buraya	koydunuz	.
+
+F----	That	was	very	kind	of	you	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	Keep	your	balance	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---Yes	,	it	's	connected	.
+    Evet	,	bağlı	durumda	.
+
+T----	What	are	so	mad	about	?
+    -	Niye	bu	kadar	kızdın	?
+
+F---We	've	got	to	celebrate	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+F---Is	it	you	,	Shinjiro	?
+    Sen	mi	yaptın	,	Rutledge	?
+
+F---What	's	the	matter	with	that	?
+    -	Sorun	nedir	?
+
+F---Just	a	second	,	okay	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F---Where	's	my	baby	,	you	thug	?
+    Wilkie	,	iyi	değil	miydi	?
+
+F---He	is	the	one	you	want	to	kill
+    Artık	bize	ihtiyacı	yok	.
+
+F----	Why	did	n't	you	stop	me	?
+    -	Niye	bu	kadar	kızdın	?
+
+F----	To	hell	with	the	press	!
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	``	A	foggy	morning	''	...
+    ``	Ah	söyleyebilir	misin	...	''
+
+F---It	's	all	right	,	gentlemen	.
+    Tamam	beyler	!
+
+F---Who	you	got	helping	you	?
+    Telefona	ne	gerek	var	?
+
+T----	Willie	,	darling	.	-	Mother	.
+    -	Willie	,	hayatım	.
+
+F---Thank	you	.	Thank	you	both	.
+    Her	şey	için	teşekkürler	.
+
+F----	You	're	not	going	anyplace	!
+    Haydi	,	yürüyün	!
+
+F----	You	're	the	scrounger	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---The	truth	lies	in	many	dreams	.
+    -	Haydi	,	gidiyoruz	!
+
+T---You	should	've	come	in	.
+    Seyredebilirdiniz	gizlimiz	yok	.
+
+F---You	do	n't	like	him	,	do	you	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F---And	he	said	to	me	...
+    Ben	acıktım	.
+
+F---We	're	eating	at	home	.
+    Hemen	eve	gidiyorum	.
+
+T---That	must	be	Sachiko	.
+    Bu	Sachiko	olmalı	.
+
+F----	You	are	the	doctor	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---It	will	be	bad	publicity	.
+    -	Zor	bir	gün	geçirdim	.
+
+F---How	do	you	like	the	maid	?
+    -	Ne	demek	istiyorsun	?
+
+F---But	not	for	the	police	.
+    -	Nesin	sen	,	polis	mi	?
+
+T---You	're	a	sadistic	fiend	.
+    Sen	sadist	bir	kaçıksın	.
+
+F---What	do	you	want	then	?
+    Nasıl	geçineceksin	?
+
+F---Ai	n't	you	behind	schedule	?
+    -	Sonuncusu	neydi	?
+
+F---Stop	drooling	over	my	girl	.
+    Kız	nasıl	?
+
+F---Forget	it	,	get	on	with	it	.
+    Calloway	,	çok	şey	bekliyorsun	.
+
+F---What	's	going	on	up	there	?
+    Mini'ni	nasıl	alabildin	?
+
+F----	I	did	it	,	you	see	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	I	've	had	a	day	of	it	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----Yes	,	your	Lordship	.
+    Burada	bir	adettir	.
+
+F---That	would	suit	you	fine	!
+    Öldürmen	gereken	kişi	o	!
+
+F----	Is	it	really	necessary	?
+    -	Yaralı	mısınız	,	mösyö	?
+
+F----	And	here	,	seven	tokens	.
+    Onlar	için	ümit	de	kalmamıştır	.
+
+F---Oh	,	to	hell	with	all	this	.
+    Oh	,	harika	.
+
+F----	Who	cares	if	I	'm	famous	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Did	you	turn	that	off	?
+    Bu	nasıl	olur	?
+
+F---Yes	,	this	is	Ms.	Edwards	.
+    Teşekkür	ederim	,	Bn	.	Scarlett	.
+
+F---It	was	humiliating	...
+    İlişkimiz	...
+
+T---~	Each	little	bird	that	sings
+    Öten	her	küçük	kuşun
+
+T---Where	are	they	taking	her	?
+    Onu	nereye	görütürüyorlar	?
+
+F---Well	,	you	can	stop	thinking	.
+    -	O	iyi	olacak	.
+
+F---Is	anybody	down	there	?
+    Orada	ne	var	?
+
+F---I	know	of	a	model	in	Chelsea	.
+    Daha	açık	konuş	.
+
+F---And	you	're	clean	now	.
+    -	Tek	kuruşum	yok	.
+
+T---His	name	is	Oscar	Wilde	.
+    İsmi	Oscar	Wilde	.
+
+F---Here	are	the	papers	,	sir	.
+    2279	pl	,	efendim	.
+
+F---It	's	worth	a	lot	more	.
+    -	Sorun	değil	.
+
+F---I	like	to	look	at	you	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+T---Did	you	do	it	,	Rutledge	?
+    Sen	mi	yaptın	,	Rutledge	?
+
+F---Speak	little	and	still	cook	.
+    Herşey	yoluna	girecek	.
+
+F---Do	n't	think	I	want	any	less	.
+    -	O	iyi	olacak	.
+
+F----	You	ca	n't	be	that	angry	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---And	you	want	the	contract	.
+    Onlarda	yok	.
+
+F---[	Sings	]	``	Oh	,	say	can	you	...	''
+    O	tersaneden	geçiniyoruz	.
+
+F---I	will	take	what	is	ours	.
+    -Yanlış	giden	bir	şey	var	.
+
+F---I	'll	fight	you	one-handed	.
+    Seni	yakalayamadılar	.
+
+F----	Pleasure	to	meet	you	.
+    Buna	razı	olacağım	.
+
+F---When	you	've	an	empty	heart
+    -	Bu	hödüğün	davranışları	...
+
+F---Do	n't	want	or	ca	n't	?
+    O	zaman	ne	istiyorsun	?
+
+F---Oh	,	no	,	I	must	n't	do	that	.
+    Oh	,	evet	.	``	Barrington	''	.
+
+F---A	storm	woke	him	up	one	night	.
+    Ölmek	istemiyorum	!
+
+F---Did	n't	I	tell	you	to	trust	me	.
+    Hiçbir	şey	bilmiyorum	.
+
+F---Something	's	the	matter	.
+    -	Sorun	değil	.
+
+T----	What	about	her	family	?
+    -	Evet	,	ya	ailesi	?
+
+F---See	him	on	the	staircase	?
+    Şimdi	beni	rahat	bırak	.
+
+T---They	say	the	girl	took	poison	.
+    Kızın	zehir	içtiğini	söylüyorlar	.
+
+F---Their	suffering	's	over	.
+    Sinematografi	KAZUO	YAMADA
+
+F----	You	have	to	warm	up	now	.
+    Burası	çok	sıcak	.
+
+T---Somebody	's	trying	to	kill	me	.
+    Biri	beni	öldürmeye	çalışıyor	.
+
+F----	Yeah	,	later	,	Whitey	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---We	'll	be	in	so	much	trouble	.
+    Bir	şeyler	sorun	.
+
+F---I	owe	it	to	Osborne	.
+    Bu	onlara	kalmış	.
+
+T---How	did	you	become	stone	?
+    Nasıl	taşa	dönüştünüz	?
+
+F---We	'll	meet	again	,	Fantomas	.
+    Kimse	KGB'den	ayrılamaz	.
+
+F----I	do	n't	make	house	calls	.
+    Belki	eve	dönmüşlerdir	şimdi	.
+
+F---All	right	,	I	'll	pay	.
+    Artık	buna	dayanamadım	.
+
+F---I	appreciate	this	,	Betsy	.
+    -Yanlış	giden	bir	şey	var	.
+
+F---You	're	such	a	macho	,	chief	.
+    burada	mı	arıyorsun	?
+
+F---Come	back	here	,	Sergeant	.
+    Nerden	çıktı	bu	?
+
+T---Yes	,	indeed	they	are	.
+    Evet	,	gerçekten	öyle	.
+
+T---You	almost	got	caught	.
+    Neredeyse	yakalanıyordun	.
+
+F---Illogical	.	Illogical	.
+    -	Bu	kadar	kızamazsın	.
+
+T---Captain	,	scientifically	...
+    Kaptan	,	bilimsel	olarak	...
+
+F---That	's	not	what	Leigh	said	.
+    Yeni	ilişkilerim	var	.
+
+F---Does	n't	that	mean	anything	?
+    -Size	göre	nedir	peki	?
+
+F---Okay	,	men	!	Lock	and	load	!
+    Horoz	,	o	daha	çocuk	.
+
+T---But	everyone	's	here	...
+    Herkes	burada	...
+
+F---I	want	to	see	if	you	like	it	.
+    Bir	şeyler	sorun	.
+
+F---Give	it	to	me	,	come	on	!
+    Devir	onu	,	Sapphο	!
+
+T---He	needs	you	...	urgently	.
+    Acilen	yanına	...
+
+F---Do	n't	unblock	the	exits	!
+    Sadece	bir	saniye	,	tamam	mı	?
+
+F---``	Matter	is	mortal	error	.
+    onların	hepsinin	kısa	saçı	var	.
+
+T---They	were	all	crazy	about	him	.
+    Hepsi	onun	için	deli	oluyordu	.
+
+T----	Good	morning	to	all	.
+    -	Herkese	günaydın	.
+
+F---``	I	was	a	dirty	bird	.
+    Öten	her	küçük	kuşun
+
+F---Careful	with	that	now	,	hon	.
+    Kendisi	teslim	oldu	.
+
+F----	Where	did	you	ride	in	from	?
+    Oh	,	harika	.
+
+T---The	zinnias	,	Joseph	.
+    Zinyalar	,	Joseph	.
+
+F---I	live	with	my	stepfather	,
+    Hadi	gel	,	sana	göstereyim	.
+
+F---Real	live	car	chases	!
+    Arabayı	durdur	dedim	.
+
+F---Follow	me	,	gentlemen	.
+    Bayanlar	baylar	,	bu	...
+
+F---Who	sent	you	here	,	boy	?
+    -	Sana	75c	ödediklerinde	?
+
+T----	The	door	was	open	.
+    -	Kapı	açıktı	.
+
+F----Well	,	I	know	this	much	.
+    Calloway	,	çok	şey	bekliyorsun	.
+
+F---Little	secret	from	his	wife	.
+    İzin	veriyor	musunuz	?
+
+F---Go	on	,	do	what	you	want	.
+    Hadi	git	al	onu	,	bunu	hakettin	.
+
+F---Seventy-five	a	week	.
+    Onlarda	yok	.
+
+T---You	kids	come	here	right	now	.
+    Çocuklar	hemen	buraya	gelin	.
+
+F----	Well	,	he	needs	some	gas	.
+    Kesin	kes	öyle	.
+
+T---You	're	not	gon	na	believe	this	.
+    Buna	inanmayacaksın	.
+
+F----	What	do	you	intend	to	do	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---I	want	the	whole	country	pink	!
+    Bütün	memleket	pembe	olmalı	!
+
+F---You	'd	think	I	was	a	child	.
+    Horoz	,	o	daha	çocuk	.
+
+T---What	could	be	easier	?
+    Daha	ne	kadar	kolay	olabilir	ki	?
+
+F---Tell	him	I	'm	very	sorry	.
+    Özür	dilerim	,	Katarina	.
+
+T---He	never	had	any	time	for	me	.
+    Bana	hiç	zaman	ayırmıyordu	.
+
+F---He	did	n't	need	us	anymore	.
+    Ama	o	öyle	değildi	.
+
+T---It	's	a	long	,	merciless	attack	.
+    Uzun	ve	acımasız	bir	saldırı	.
+
+F----	A	clip	can	be	replaced	.
+    Gösteri	gerçekdışıydı	.
+
+F---Your	rights	protector
+    Sana	kimler	yardım	ediyor	?
+
+F----	You	wo	n't	be	staying	?
+    Kimse	var	mı	aşağıda	?
+
+F---You	got	a	long	memory	like	me	.
+    Oku	bakalım	başka	ne	diyor	.
+
+F---Now	get	away	from	me	!
+    Hiç	birşey	!
+
+F---Even	the	pistol	,	huh	?
+    Her	an	olabilir	.
+
+F---My	desire	to	kill	appalls	me	.
+    -	Hayatta	her	şey	olabilir	.
+
+F---I	'm	waiting	for	my	daughter	!
+    İzin	veriyor	musunuz	?
+
+F----	Did	you	get	the	bill	?
+    -	Daha	fazla	dinlemek	istemiyorum	.
+
+F---I	've	got	to	call	my	wife	.
+    Onunla	anlaşabilirim	.
+
+F---You	've	been	gone	three	days	.
+    Onu	nereye	görütürüyorlar	?
+
+F---Now	,	why	did	I	do	it	?
+    Niye	dövüştüğümüzü	ne	niye	öldüğümüzü	.
+
+F---At	the	taxpayers	'	expense	.
+    Bir	giriş	var	.
+
+F---Now	that	's	something	.
+    Patronun	değil	.
+
+F---The	judges	are	buried	in	work	.
+    Bakalım	hindibalı	seviyor	musun	.
+
+F---It	's	not	what	was	intended	.
+    -	Sorun	değil	.
+
+F---What	need	of	telephones	?
+    Yine	mi	telefon	?
+
+F----	Is	n't	algebra	vile	,	Father	?
+    Çok	oldu	mu	buraya	geleli	?
+
+F---Let	me	check	you	out	.
+    Ve	sen	asansördeydin	.
+
+T----	and	have	a	glass	of	wine	.
+    -	Bir	bardak	şarap	iç	.
+
+F---I	did	n't	mean	it	that	way	.
+    -	Bu	kadar	kızamazsın	.
+
+F---How	did	you	find	out	about	it	?
+    Nasıl	geçineceksin	?
+
+F---Once	made	,	it	is	fulfilled	.
+    Bir	tane	var	ama	kötü	durumda	.
+
+F---I	'm	talking	to	civilians	.
+    -Evlere	gitmem	.
+
+F---Over	there	on	the	couch	.
+    -Lütfen	Bayan	Dudley	!
+
+F---But	I	'll	talk	to	you	soon	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+T---An	anonymous	letter	?
+    Mektup	mu	?
+
+F---Yeah	,	I	've	seen	it	before	.
+    -Hayır	,	pek	sanmam	.
+
+F---Sheer	medical	curiosity	.
+    Oda	tamamen	döşenmişti	.
+
+F---What	are	you	doing	here	?
+    Nasıl	geçineceksin	?
+
+F----	Surrounding	the	castle	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---And	you	just	met	this	Siress	?
+    Onu	nereye	görütürüyorlar	?
+
+F---And	for	the	neighbours	.
+    Ve	artık	temizsin	.
+
+F---You	dare	try	to	confuse	me	!
+    -	Haydi	,	gidiyoruz	!
+
+F----	l	'm	gon	na	need	some	proof	.
+    Kesin	kes	öyle	.
+
+T---Say	hello	to	Watson	.
+    Watson'a	merhaba	de	.
+
+F---Were	you	really	a	lord	once	?
+    onların	hepsinin	kısa	saçı	var	.
+
+F---Ah	,	the	hell	with	it	.
+    Oh	,	harika	.
+
+T---This	is	no	place	for	you	.
+    Burası	size	göre	değil	.
+
+F---I	told	them	it	's	our	business	.
+    Burası	yeri	değil	.
+
+F---we	'll	make	a	deal	with	him	.
+    İkisinde	de	yanıldın	.
+
+T----	By	the	way	,	Walter	...
+    -	Baksana	Walter	.
+
+F---But	you	are	all	right	now	.
+    Ne	olduğunu	anımsayalım	.
+
+F---You	put	it	in	there	.
+    Burada	bir	adettir	.
+
+T---Ladies	and	gentlemen	,	this	--
+    Bayanlar	baylar	,	bu	...
+
+F---Never	mind	explaining	.
+    -	Shokichi	burada	değil	.
+
+T---But	the	songs	are	good	.
+    Ama	şarkılar	iyi	.
+
+T---How	is	the	girl	doing	?
+    Kız	nasıl	?
+
+F----	It	's	the	title	of	this	book	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	You	do	n't	have	to	be	rich	!
+    En	azından	bu	konuda	eşittiler	!
+
+F---You	're	so	good	at	it	.
+    Çok	iyi	.
+
+F---Hey	,	be	cool	,	buddy	.
+    Hey	,	o	benim	ceketim	!
+
+F---Let	's	go	through	it	again	.
+    Mayonez	yok	.
+
+F---It	's	the	law	of	life	.
+    -	...	yasalara	aykırı	.
+
+F---That	's	our	primary	mission	:
+    İlişkimiz	...
+
+F---Stuffy	,	where	are	you	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F----	When	do	you	pay	75c	?
+    Yaklaşsana	!	Ne	dikiliyorsun	orada	?
+
+F---Good	lesson	to	our	members	!
+    -	Haydi	,	gidiyoruz	!
+
+F---Someone	else	on	the	line	!
+    Haydi	,	yürüyün	!
+
+T---Hailing	frequencies	.
+    Selamlama	frekansı	.
+
+T---Proverbs	,	chapter	22	.
+    Deyişler	,	bölüm	22	.
+
+F----	They	'll	stay	with	her	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Your	family	picked	him	up	.
+    Bir	kuruşu	bile	yok	.
+
+F---Do	n't	you	dare	say	that	.
+    Marcy	,	zırlama	zamanı	değil	.
+
+F---Take	off	your	glasses	.
+    Hayatta	bilemezsiniz	.
+
+T---Ah	,	they	're	only	fishes	.
+    Onlar	yalnızca	balık	.
+
+T---In	your	own	words	,	why	not	?
+    Sizin	deyiminizle	,	neden	olmasın	?
+
+T----	Mister	,	you	've	started	.
+    -	Mister	,	başladın	bile	.
+
+F---He	has	fewer	than	1	1,000	men	.
+    Nereye	gidiyorsun	?
+
+F---Help	me	with	my	trousers	.
+    Sizi	bekliyorum	,	sör	.
+
+T---Yang	's	golden	knife	.
+    Yang	altın	bıçağı	!
+
+F---A	short	scenic	cruise	?
+    Şaka	yapıyor	olmalısın	.
+
+F---It	's	now	and	I	want	to	watch	!
+    -	Bu	kadar	kızamazsın	.
+
+F---They	went	on	for	ever	.
+    Mayonez	yok	.
+
+F---THERE	'S	BEEN	AN	ACCIDENT	.
+    İstekliyim	.
+
+F---Good-looking	office	.
+    -	Galiba	seni	küçümsemişim	.
+
+F---Quite	all	right	,	I	think	.
+    Hayır	,	sorun	uyumaktır	.
+
+T---Please	do	not	misunderstand
+    Lütfen	yanlış	anlamayın	.
+
+F----	What	are	you	shouting	for	?
+    ``	Ah	söyleyebilir	misin	...	''
+
+F---I	'll	tell	you	what	we	'll	do	.
+    Ne	olduğunu	anımsayalım	.
+
+F----	No	,	that	's	all	right	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---They	all	have	short	hair	.
+    Anlat	biraz	.
+
+F---HE	WAS	--	HE	WAS	LAME	.
+    Seni	yakında	ararım	.
+
+T---Domenico	has	a	degree	!
+    Domenico'nun	derecesi	var	!
+
+F---No	one	can	pass	through	it
+    Onu	utandırdım	.
+
+T---I	did	n't	do	anything	wrong	.
+    Ben	yanlış	bir	şey	yapmadım	.
+
+F---Did	the	flash	go	off	?
+    Hiç	acımadı	.
+
+F----	She	's	going	to	be	okay	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Let	me	get	this	straight	.
+    Siz	arkadaşsınız	.
+
+F---Do	you	mean	that	,	sir	?
+    -	Evet	efendim	.
+
+F---I	did	n't	get	caught	.
+    Siz	arkadaşsınız	.
+
+F---Another	bad	one	,	huh	,	Doc	?
+    -	Hayatta	her	şey	olabilir	.
+
+F---I	'm	supposed	to	go	in	there	?
+    Sen	mi	yaptın	,	Rutledge	?
+
+T---Fine	.	I	'm	glad	to	hear	it	.
+    Çok	iyi	,	çok	sevindim	.
+
+T---Probably	too	expensive	for	me	.
+    Büyük	ihtimalle	benim	için	çok	pahalıdır	.
+
+F---I	do	n't	know	any	Mu	!
+    Hiç	birşey	!
+
+F----You	said	we	were	special	.
+    Şimdi	düşünün	.
+
+F---Give	me	those	shorts	.
+    Müzedeymişim	gibi	hissediyorum	.
+
+F---No	beating	about	the	bush	.
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+T---My	dear	,	beloved	Johan	...
+    Sen	sevgili	,	Johan	...
+
+F----	Do	I	have	any	mail	?
+    Isobel	,	içeri	gelebilir	miyim	?
+
+F---B.A	.	:	(	echoing	)	Hannibal	!
+    Sinemaya	mı	gittin	?
+
+F---Where	''	D	You	Go	,	The	Movies
+    Öğretmen	ve	öğrenicisi	.
+
+F---You	really	like	that	mess	?
+    Bu	nasıl	olur	?
+
+F---That	's	true	.	Come	on	.
+    -	Onu	da	öyle	seçmiştin	.
+
+F----Comperson	and	penderal	...
+    İlişkimiz	...
+
+F---Ashes	to	ashes	,	dust	to	dust	.
+    Tek	bir	kusuru	var	...
+
+T---Come	in	a	minute	,	please	.
+    Bir	dakika	içeri	gel	,	lütfen	.
+
+F----	All	right	,	Señor	Armando	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---There	's	someone	here	.
+    Burada	birisi	var	.
+
+F---Who	are	your	district	leaders	?
+    Gandalf	burada	olsaydı	...
+
+F----	I	do	n't	have	a	dime	.
+    -	Neden	dışarı	çıkıyorsun	?
+
+F----	What	's	this	one	about	?
+    Gösteri	gerçekdışıydı	.
+
+F---Now	you	're	gon	na	get	it	.
+    Bu	Sachiko	olmalı	.
+
+T----	What	are	you	,	a	cop	?
+    -	Nesin	sen	,	polis	mi	?
+
+F---Prepare	yourself	for	a	shock	.
+    -Yaptım	,	gördün	mü	?
+
+F---I	'll	be	back	in	a	few	minutes	.
+    Gözlüğünü	çıkar	.
+
+F---Want	some	clean	clothes	?
+    -	Onlara	ne	derdiniz	?
+
+F---Am	I	going	to	die	now	?
+    -Neden	?	-Benzine	ihtiyacı	var	.
+
+F---We	've	been	kicked	out	.
+    -	Shokichi	burada	değil	.
+
+F----	Bring	him	this	way	.
+    Gösteri	gerçekdışıydı	.
+
+F---See	you	in	the	papers	.
+    Hammerstein'da	sahne	alırmış	.
+
+F---We	'll	find	out	what	happened	.
+    Ne	olduğunu	anımsayalım	.
+
+F---There	is	an	entrance	.
+    Artık	buna	dayanamadım	.
+
+F---I	even	brought	Antonio	!
+    Bir	tane	bile	zafer	yok	.
+
+F----	I	'm	going	for	a	walk	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	This	one	we	take	with	us	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Hey	,	you	changed	your	top	.
+    Hey	,	o	benim	ceketim	!
+
+F---He	's	in	for	a	shock	,	that	boy	.
+    Hayır	,	sorun	uyumaktır	.
+
+F---Did	she	say	anything	...
+    İlişkimiz	...
+
+F----	You*ve	succeeded	completely	!
+    -	Ben	çıldıryorum	burda	!
+
+F---The	wallpaper	needs	changing	.
+    Lonrdra	ile	bağlantı	kurduk	.
+
+T---May	I	speak	to	George	?
+    George	ile	görüşebilir	miyim	?
+
+T---It	's	your	father	,	is	n't	it	?
+    Baban	,	değil	mi	?
+
+F---Stay	with	it	,	Buddy-boy	.
+    -	Bu	kadar	kızamazsın	.
+
+F---I	did	n't	ask	for	orchids	.	/
+    Bu	efsane	.
+
+F---You	must	find	Sherazade	.
+    Ne	olduğunu	anımsayalım	.
+
+F---Xiao	Qi	ls	Xiao	here	?
+    Ne	şeytanlık	peşindesin	?
+
+F---I	had	no	idea	you	were	here	.
+    Gerçekten	iyi	fikir	.
+
+F---Look	at	that	dear	gentleman	.
+    Sorun	yok	,	beyefendi	.
+
+F---There	's	no	doubt	about	it	.
+    -	Sorun	değil	.
+
+F---But	not	so	hot	on	why
+    Burası	çok	sıcak	.
+
+F----	What	's	the	matter	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---You	're	out	,	you	're	out	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+F---Oh	yes	.	``	Barrington	''	.
+    Ve	artık	temizsin	.
+
+F---IT	''	'S	VERY	GOOD	.	[	LAUGHS	]
+    Hey	...	Anlamıyor	musun	?
+
+T---She	's	got	funny	ears	.
+    Kulakları	çok	komik	.
+
+T---Her	name	is	Lisa	Martinson	.
+    Onun	adı	Lisa	Martinson	.
+
+F----	I	would	n't	bother	him	now	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Must	be	somebody	out	...
+    Hayatta	bilemezsiniz	.
+
+F---He	should	be	ordering	shrouds	.
+    Artık	buna	dayanamadım	.
+
+F---I	might	like	it	with	you	.
+    Burada	bir	adettir	.
+
+F---The	demonstration	was	unreal	.
+    Yardımına	ihtiyacım	var	aşk	adamı	.
+
+F----	I	do	n't	hear	anymore	!
+    Gösteri	gerçekdışıydı	.
+
+F---People	without	ancestors	.
+    Elbiseyi	giymedin	.
+
+F---Apparently	colaboracionism	.
+    Mayonez	yok	.
+
+F---I	'll	show	you	a	good	time	.
+    Çok	iyi	.
+
+F---I	wo	n't	trouble	you	anymore	.
+    Bir	şeyler	sorun	.
+
+F---Are	n't	they	adorable	together	?
+    O	zaman	ne	istiyorsun	?
+
+F---They	do	n't	have	them	.
+    Mayonez	yok	.
+
+F---Stay	where	you	are	,	Captain	.
+    -	Kaptan	,	lütfen	artık	...
+
+T---Thorn	,	14th	Precinct	.
+    Thorn	,	14.	bölge	.
+
+F---A	pint	of	bitter	,	please	.
+    Genelde	daha	fazla	istersiniz	.
+
+T---Oh	,	that	's	gorgeous	.
+    Oh	,	harika	.
+
+T---Well	,	thank	you	,	sir	.
+    Teşekkür	ederim	efendim	.
+
+F---Domenico	,	I	am	here	!
+    Devir	onu	,	Sapphο	!
+
+F---Hi	,	ho	,	Silver	,	away	!
+    Hey	,	o	benim	ceketim	!
+
+F---Who	answers	for	Cyprus	?
+    -Size	göre	nedir	peki	?
+
+F---The	countess	is	asleep	.
+    -Yanlış	giden	bir	şey	var	.
+
+F---The	possibility	of	murder	?
+    Ama	ölümleri	açıklamıyor	.
+
+T---Why	do	n't	you	try	it	,	Barry	?
+    Sen	neden	denemiyorsun	Barry	?
+
+T---He	's	white	...	just	like	you	.
+    Beyaz	biriyle	...	senin	gibi	.
+
+F---We	''	ll	take	twice	that	number	.
+    -	Shokichi	burada	değil	.
+
+F---Everyone	knows	that	.
+    -Siz	iyi	misiniz	?	-Ben	neler	olduğunu	bilmiyorum	.
+
+F---He	turned	himself	in	.
+    Siz	arkadaşsınız	.
+
+F---The	captain	wants	to	see	me	?
+    Olduğun	yerde	bekle	kaptan	.
+
+F---I	thought	you	'd	show	up	.
+    Peltekmişsiniz	gibi	yapacaksınız	.
+
+F---Is	that	how	you	helped	him	?
+    Aklınızdan	ne	geçiyor	?
+
+T---Plead	for	these	marsh	rabbits	?
+    Bu	bataklık	tavşanları	için	yalvaracak	mısın	?
+
+T---Shall	I	make	you	happier	?
+    Seni	biraz	daha	mutlu	edeyim	mi	?
+
+F---I	have	so	much	to	tell	you	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+F---I	must	speak	with	you	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+F---He	used	to	play	Hammerstein	.
+    Nedir	bu	,	bir	oyun	mu	?
+
+F---Me	and	Ben	on	the	deck	.
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F---You	keep	us	talking	.
+    Siz	arkadaşsınız	.
+
+F---Here	's	your	earring	.
+    Kız	nasıl	?
+
+T---It	is	so	with	the	world	.
+    Dünya	da	aynı	.
+
+F---I	'm	in	kind	of	a	hurry	.
+    Buna	inanmayacaksın	.
+
+F----	Why	did	n't	you	say	so	?
+    -	Niye	bu	kadar	kızdın	?
+
+T----	We	need	more	wood	.
+    -	Daha	fazla	odun	lazım	.
+
+F----	Line	up	behind	him	.
+    Ban	zarar	vermediler	.
+
+F---Clearance	plans	now	in	effect	.
+    -	Sorun	değil	.
+
+F---There	's	a	strange	flavor	...
+    Yemeğe	gelecek	misin	?
+
+T---Your	boss	is	missing	?
+    -	Patron	mu	kayıp	?	-	Evet	.
+
+T---Hey	,	wait	a	minute	.	Hold	it	.
+    Hey	,	bekle	bir	dakika	.
+
+F---I	need	a	favor	lover	man	.
+    Buna	inanmayacaksın	.
+
+F---Come	in	,	all	of	you	.
+    Hayır	,	sorun	uyumaktır	.
+
+F---About	turn	!	Double	in	!
+    Yaklaşsana	!	Ne	dikiliyorsun	orada	?
+
+F---Enduring	and	inescapable	.
+    Kimse	KGB'den	ayrılamaz	.
+
+F---What	's	on	your	mind	,	Norma	?
+    -	Niye	bu	kadar	kızdın	?
+
+F----	Then	they	're	flammable	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	No	,	they	were	n't	beaten	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T----	The	pâte	and	the	lamb	.
+    Ezme	ve	kuzu	.
+
+T---Then	one	night	,	it	ended	.
+    Sonra	bir	gece	,	sona	erdi	.
+
+F---Here	's	a	rifle	for	you	.
+    Bakalım	hindibalı	seviyor	musun	.
+
+F---If	it	's	that	approachable
+    Sinematografi	KAZUO	YAMADA
+
+F---Magellan	's	Pass	is	secret	.
+    Tamam	anlaştık	.
+
+F----	Get	off	your	horse	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+T---Or	his	woman	,	maybe	.
+    Veya	onun	kadını	belki	.
+
+T---What	about	Charlie	Bassett	?
+    -	Ya	Charlie	Bassett	?
+
+F---Yeah	?	Tell	that	to	Bobby	.
+    Lütfen	sana	zarar	vermem	.
+
+F---Take	off	your	clothes	.
+    Bak	ne	yaparız	.
+
+T---Let	's	remember	what	happened	.
+    Ne	olduğunu	anımsayalım	.
+
+F---That	was	Phoebe	's	idea	.
+    Gerçekten	iyi	fikir	.
+
+F---``	Nasty	things	,	shoe	mines	.	''
+    Keşke	hiç	kaçmasaymışım	.
+
+F----	I	just	happened	to	be	...
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Until	the	Emperor	's	Ball	.
+    Boşaltma	plânı	şu	anda	yürürlükte	.
+
+T---EVA-CUATE	YOUR	ASS	OUT	OF	HERE
+    GİT	KENDİNİ	DÜZDÜR
+
+F---What	do	I	...	owe	you	for	that	?
+    Sen	misin	,	Shinjiro	?
+
+T---They	got	guns	and	200	men	.
+    Silahları	ve	200	adamları	var	.
+
+F---You	know	it	.	I	know	it	all	.
+    -	Evet	.	O	halde	yanıcıdırlar	.
+
+F---Just	by	sight	;	if	it	is	him	.
+    Tabi	ki	konuşabiliyoruz	.
+
+F---Which	is	more	than	you	will	!
+    Öldürmen	gereken	kişi	o	!
+
+F---You	see	Marina	,	right	?
+    Devir	onu	,	Sapphο	!
+
+F---It	's	a	priceless	original	.
+    Kulakları	çok	komik	.
+
+F---Take	off	your	shoes	.
+    Siz	bu	öykümüzü	biliyorsunuz	.
+
+T---It	's	my	defense	mechanism	.
+    -	Benim	savunma	mekanizmam	bu	.
+
+F----	Oh	,	boy	,	the	number	's	lousy	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---You	're	wrong	on	both	counts	.
+    Ben	yanlış	bir	şey	yapmadım	.
+
+F---Well	,	so	long	,	gang	.
+    Buna	razı	olacağım	.
+
+F---No	,	you	can	disconnect	.
+    Şaka	yapıyor	olmalısın	.
+
+F---Here	are	the	names	written	.
+    Bu	çok	güzel	bir	isim	.
+
+T---That	's	a	dog	,	ai	n't	it	?
+    Köpek	gibi	,	değil	mi	?
+
+F---Both	of	'em	.	That	great	?
+    -Siz	iyi	misiniz	?	-Ben	neler	olduğunu	bilmiyorum	.
+
+T---Mrs.	Schmauss	,	would	you	...
+    Bayan	Schmauss	,	acaba	...
+
+F---It	's	the	snow	ghost	!
+    Karın	hızlı	öğreniyor	.
+
+F----	What	's	your	point	?
+    Kimse	var	mı	aşağıda	?
+
+F---Yes	,	Come	on	,	let	's	go	.
+    Tamam	,	yeter	.
+
+F----	I	'm	the	paymaster	now	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Why	do	n't	you	wear	this	dress	?
+    Isobel	,	içeri	gelebilir	miyim	?
+
+T---I	'm	sorry	,	Katarina	.
+    Özür	dilerim	,	Katarina	.
+
+F----	How	about	the	body	?
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F---My	parents	are	divorced	.
+    -	Ev	hapsinde	miyim	?
+
+F---Cast	her	to	the	Spartans	.
+    Hammerstein'da	sahne	alırmış	.
+
+F----	l	beg	your	pardon	?
+    O	her	şeyi	hatırlamamı	sağladı	.
+
+F---They	could	be	silence	.
+    Her	şey	yolunda	.
+
+T---This	is	not	your	egg	morning	.
+    Bugün	yumurta	gününüz	değil	.
+
+F---Where	are	you	hiding	?
+    Ne	oldu	?
+
+F---He	's	in	the	sleeper	toilet	.
+    Domenico'nun	derecesi	var	!
+
+F---We	're	all	friends	here	.
+    Ne	çeşit	bir	arkadaş	?
+
+F---Are	you	troubled	,	Tsar	Ivan	?
+    Öyle	mi	?	O	zaman	niye	peşimden	geliyorsun	?
+
+F----	What	's	so	comical	?
+    Bayan	Schmauss	,	acaba	...
+
+F---What	time	it	is	?	Seven	.
+    -	Faturayı	aldın	mı	?
+
+F---We	're	looking	for	him	now	.
+    Ona	söyleyemem.Henüz	olmaz	.
+
+F---Are	you	making	a	fool	of	me	?
+    Bütün	bunlar	da	neydi	?
+
+F---Then	do	n't	say	anything	.
+    Patronun	değil	.
+
+T---Black	,	like	you	said	.
+    Siyah	,	dediğin	gibi	.
+
+F---That	depends	on	them	.
+    Mayonez	yok	.
+
+F---No	,	sir	,	not	falsely	accused	.
+    -	Yapılmadı	,	efendim	.
+
+T---What	about	your	nephew	,	Mark	?
+    Yeğenine	ne	diyeceksin	Mark	?
+
+F---Yes	,	I	'm	awfully	...	.
+    -	Zor	bir	gün	geçirdim	.
+
+F----	Your	names	,	please	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Hey	!	What	do	I	call	you	?
+    Hey	,	o	benim	ceketim	!
+
+F----	I	think	I	underrated	you	.
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F---Darling	,	what	's	wrong	?
+    Keşke	hiç	kaçmasaymışım	.
+
+F---Your	Triebig	is	dead
+    Mayonez	yok	.
+
+F---Good	luck	to	you	,	too	,	Burke	.
+    Hadi	,	hadi	,	ver	şunu	.
+
+F---Really	,	that	's	a	good	idea	.
+    -	İyi	fikir	.
+
+F---But	you	do	n't	understand	.
+    Patronun	değil	.
+
+F---You	look	all	mashed	up	:
+    Fang	Junzhao'nı	bulmalıyız
+
+F---It	's	done	and	settled	.
+    Bir	şeyin	peşindeydi	.
+
+F---Isobel	,	may	I	come	in	?
+    Wilkie	,	iyi	değil	miydi	?
+
+F---Now	do	n't	forget	,	Ramón	.
+    Marcy	,	zırlama	zamanı	değil	.
+
+F---Well	,	better	get	going	.
+    -Hayır	,	pek	sanmam	.
+
+F---It	does	n't	hurt	a	bit	.
+    Belki	başka	bir	yöne	.
+
+F---Don	Lope	wants	to	see	you	.
+    Ya	Don	Vincenzo	?
+
+T---You	do	n't	even	eat	meals	.
+    Hatta	yemek	yemem	.
+
+F---Are	you	sleepwalking	maybe	?
+    Kapatılım	mı	şu	konuyu	?
+
+F---I	'm	only	talking	about	myself
+    Bence	o	burada-
+
+F----	While	I	was	in	town	.
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F---I	get	the	initials	``	J.E.G	.	''
+    Ve	``	Megaera	''	dan	bahsediyor	.
+
+F---Let	theirs	be	the	choice	.
+    Evet	,	bağlı	durumda	.
+
+F----	What	happened	,	Jim	?
+    Seni	biraz	daha	mutlu	edeyim	mi	?
+
+F---Suppose	you	want	it	rewritten	?
+    -	Hangisi	?
+
+F---And	he	mentions	``	Megaera	.	''
+    Hey	,	o	benim	ceketim	!
+
+T---This	is	Michael	Gallagher	.
+    Ben	Michael	Gallagher	.
+
+F---AND	TELL	ME	NOW	,	UNDERSTAND	?
+    Uyurgezer	misiniz	,	Komiser	?
+
+F----	Yes	,	he	's	our	uncle	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Who	areyou	afraid	of	?
+    -Size	göre	nedir	peki	?
+
+F---If	Gandalf	were	here	...
+    İlişkimiz	...
+
+F---Elsa	wants	to	see	him	.
+    Yine	de	geleceğim	.
+
+F---I	did	n't	mean	to	kill	him	.
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+F---He	has	all	he	needs	.
+    Anlat	biraz	.
+
+F----Come	on	,	Miss	Carmichael	.
+    O	kaçtı	,	Bayan	Claythorne	.
+
+F---And	the	howling	wind	.
+    Ama	ölümleri	açıklamıyor	.
+
+F---It	's	my	mother	,	is	n't	it	?
+    -	Sorun	değil	.
+
+F---Yes	,	of	course	I	will	,	sir	.
+    -	Yapılmadı	,	efendim	.
+
+F---There	is	no	one	to	bless	you	.
+    Siz	arkadaşsınız	.
+
+F---It	says	``	traveling	chaplain	.	''
+    Gandalf	burada	olsaydı	...
+
+F---Nursed	Carmel	afterwards	.
+    Bak	,	Marta	,	işte	Calamo	...
+
+F---BURKE	:	We	will	find	you	.
+    -	Sorun	değil	.
+
+F----	Well	,	if	you	have	to	go	...
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---They	got	the	man	that	did	it	.
+    Kimse	KGB'den	ayrılamaz	.
+
+F---You	'll	be	the	ones	in	irons	.
+    Hayatta	bilemezsiniz	.
+
+F---Shut	up	,	you	cripple	!
+    ``	Ben	pis	bir	yalancıyım	.
+
+F----	Our	position	.	2279	pl	,	sir	.
+    -	Yapılmadı	,	efendim	.
+
+F----	Out	the	back	door	.
+    -	Kapı	açıktı	.
+
+F---Let	's	say	this	is	one	.
+    Patronun	değil	.
+
+F---You	did	n't	drive	all	the	way	?
+    -	Neler	oldu	?
+
+F----	Yeah	,	well	,	I	'm	going	home	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	figured	that	was	up	to	you	.
+    -	Eklenecek	bir	şey	yok	.
+
+F---For	him	all	hope	is	lost	.
+    -	Sorun	değil	.
+
+F---I	have	one	,	only	it	's	broken	.
+    Oh	,	harika	.
+
+T---No	crime	has	been	committed	.
+    İşlenen	bir	suç	yok	işte	.
+
+F---No	,	she	did	n't	know	then	.
+    Hayır	güldün	.
+
+F---(	shouting	)	:	MR.	STOOLS	!
+    Sinemaya	mı	gittin	?
+
+F----	My	bicycle	,	please	.
+    -	Hayatım	,	uzaklara	gideceğiz	.
+
+F----	I	'd	like	to	see	them	higher	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Read	more	what	Jane	say	.
+    Nedir	bu	,	bir	oyun	mu	?
+
+F---I	work	only	weekdays	,	sir	.
+    2279	pl	,	efendim	.
+
+F---Cargo	bay	to	launch	crew	.
+    Yardımına	ihtiyacım	var	aşk	adamı	.
+
+F---He	know	now	how	he	die	.
+    Ama	o	öyle	değildi	.
+
+F---And	zoom	zoom	go	the	cymbals
+    Hiç	birşey	!
+
+F---I	know	why	.	You	're	jealous	.
+    Hadi	git	al	onu	,	bunu	hakettin	.
+
+F---You	do	n't	know	what	I	mean	.
+    Hiçbir	şey	bilmiyorum	.
+
+F---And	we	're	on	our	own	vacation	.
+    -	Sorun	nedir	?
+
+F---Let	me	see	her	again	.
+    İstekliyim	.
+
+F---I	'll	take	care	of	the	check	.
+    Onu	bir	görmeliydin	.
+
+F---Anyway	,	it	's	the	last	year	.
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+F---Allison	that	's	a	myth	.
+    Onun	izinden	gidelim	.
+
+F----	Take	her	with	you	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---You	can	go	to	lunch	.
+    Buna	razı	olacağım	.
+
+F---Roll	her	over	,	Sappho	!
+    Hayatta	bilemezsiniz	.
+
+F----	Do	you	have	a	match	?
+    Isobel	,	içeri	gelebilir	miyim	?
+
+F---I	do	not	desire	thy	gift	.
+    ``	Bir	servetin	var	mı	?	''	``	Hayır	,	yok	''
+
+T---I	'm	closing	up	after	tomorrow	.
+    Yarın	işyerimi	kapatıyorum	.
+
+F---It	's	got	ta	be	in	there	.
+    Kendisi	teslim	oldu	.
+
+T---I	just	wanted	to	surprise	you	.
+    Sadece	sana	sürpriz	yapmak	istedim	.
+
+F---Go	for	it	,	you	've	earned	it	.
+    Tamam	,	yeter	.
+
+T---Yeah	,	a	real	nightmare	.
+    Tam	bir	kabus	.
+
+F----	A	fortune	hunter	to	boot	!
+    Tamamen	dağılmış	gibisin	:
+
+F---You	're	going	to	be	all	right	.
+    Mayonez	yok	.
+
+F---I	hear	he	's	still	in	France	.
+    Hadi	gel	,	sana	göstereyim	.
+
+F---Have	n't	you	got	enough	stuff	?
+    Yaklaşsana	!	Ne	dikiliyorsun	orada	?
+
+F---The	motive	is	simple	:	ego	.
+    Dünya	da	aynı	.
+
+F----	What	's	the	matter	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Ah	,	my	head	's	spinning	!
+    -	Niye	bu	kadar	kızdın	?
+
+F---Kid	do	n't	talk	much	.
+    boşver	!
+
+F---Someone	who	can	help	us	.
+    Artık	bize	ihtiyacı	yok	.
+
+F---You	mean	I	'm	under	detention	?
+    Lonrdra	ile	bağlantı	kurduk	.
+
+F---You	've	got	to	be	kidding	.
+    Siz	arkadaşsınız	.
+
+F---Honest	,	I	wo	n't	hurt	you	.
+    Belki	başka	bir	yöne	.
+
+F---What	are	you	standing	there	?
+    Bu	nasıl	olur	?
+
+T---There	's	a	bee	in	here	.
+    -Efendim	.	-Burada	bir	arı	var	.
+
+F----	He	thought	he	was	God	.
+    Tanrım	şu	işe	bakın	,	millet	.
+
+T---Come	on	,	goddamn	it	!
+    Hadi	,	kahrolası	!
+
+F---When	I've-	when	I	've	...
+    -	Ben	sadece	...
+
+T---[	TVAnnouncer	]	Anne	Klein	.
+    Anne	Klein	.
+
+F---I	've	got	a	point	,	too	.
+    Calloway	,	çok	şey	bekliyorsun	.
+
+F----	Mrs.	Dudley	,	please	!
+    Bayan	Schmauss	,	acaba	...
+
+F----	Are	you	going	to	Tours	?
+    Sen	mi	yaptın	,	Rutledge	?
+
+F---E	flat	,	Miss	Claythorne	.
+    -Lütfen	Bayan	Dudley	!
+
+T---He	's	lucky	a	customer	's	here	!
+    Ne	şanslı	ki	yanında	müşterisi	var	!
+
+F----	Would	you	like	that	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---How	'bout	a	little	more	?
+    Nasıl	geçineceksin	?
+
+F---Stop	it	,	they	'll	hear	you
+    Dur	biraz	.
+
+F---Wake	'em	up	,	brother	.
+    Yeniden	yazılmasını	ister	misiniz	?
+
+F---Must	you	leave	Kyoto	?
+    Carmel'in	tedavisiyle	uğraşmış	.
+
+F---What	would	you	like	?
+    Ne	şeytanlık	peşindesin	?
+
+F---And	a	bow	to	go	with	it	.
+    Tamam	anlaştık	.
+
+F---Thank	you	for	everything	.
+    İkinize	de	teşekkürler	.
+
+T---How	will	you	get	by	?
+    Nasıl	geçineceksin	?
+
+F---Perhaps	I	can	manage	.
+    Kimse	KGB'den	ayrılamaz	.
+
+F---Make	Lucy	one	of	us	.
+    Yardımına	ihtiyacım	var	aşk	adamı	.
+
+F---Mr.	Spock	you	're	sick	.
+    Bay	Stools	.
+
+F---This	will	keep	you	very	warm	.
+    Burası	çok	sıcak	.
+
+F---It	was	pleasant	for	them	.
+    Çok	iyi	.
+
+F----	Where	are	you	going	?
+    Oydu	.	Hiç	şüphem	yok	.
+
+F----	You	ca	n't	move	it	...
+    -	Ben	sadece	...
+
+T---Yes	,	the	busy	signal	.
+    Evet	,	sinyal	meşgul	.
+
+F----	Entering	launch	code	.
+    Kulakları	çok	komik	.
+
+T---You	just	want	the	baby	!
+    Sen	sadece	bebeği	istiyorsun	!
+
+F---Such	a	dummkopf	I	am	!
+    Antonio'yu	bile	getirdim	!
+
+F----	What	a	beautiful	hairstyle	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---Now	I	will	show	you	!
+    İşte	küpen	!
+
+F---What	've	you	got	there	?
+    Nasıl	geçineceksin	?
+
+F---I	'll	bet	you	read	palms	.
+    Bir	kere	daha	göreyim	onu	.
+
+F----	You	do	n't	have	to	.
+    Oydu	.	Hiç	şüphem	yok	.
+
+F---I	have	never	been	reprimanded	.
+    Artık	buna	dayanamadım	.
+
+F----	Who	was	the	enemy	?
+    Isobel	,	içeri	gelebilir	miyim	?
+
+T---This	evening	I	do	n't	have	time
+    Bu	akşam	hiç	vaktim	yok	.
+
+T---Captain	,	please	do	n't	...
+    -	Kaptan	,	lütfen	artık	...
+
+F---Come	on	,	lads	,	do	your	work	.
+    Hayır	,	sorun	uyumaktır	.
+
+F---Edwina	,	listen	to	me	!
+    Yardımına	ihtiyacım	var	aşk	adamı	.
+
+F---We	've	contacted	London	.
+    Ona	aşığım	.
+
+F---Wan	na	play	a	few	hands	?
+    Nedir	bu	,	bir	oyun	mu	?
+
+F----	Daddy	loves	the	wind	.
+    Baban	,	değil	mi	?
+
+F---No	,	what	matters	is	sleeping	.
+    Bunun	olmaması	için	bir	sebep	yok	Gabrielle	.
+
+F---It	'll	crawl	back	up	.
+    Bir	daha	tekrar	edelim	.
+
+F---They	've	used	you	,	Alexander	.
+    Bir	yerde	bit	yeniği	var	sanki	.
+
+F---Well	,	you	are	friends	.
+    -	O	iyi	olacak	.
+
+F---You	received	my	message	?
+    -	Nerden	çaldın	?
+
+T---There	is	no	Sanctuary	.
+    Mabet	yok	.
+
+F---Do	I	have	permission	?
+    İstememek	mi	isteyememek	mi	?
+
+F---That	track	's	crooked	.
+    Bu	sefer	ne	yaptın	?
+
+F---Madge	is	the	pretty	one	.
+    Mayonez	yok	.
+
+T---I	said	``	Stop	the	car	''	.
+    Arabayı	durdur	dedim	.
+
+F----	Stop	!	-	You	're	a	pervert	!
+    Oydu	.	Hiç	şüphem	yok	.
+
+
+

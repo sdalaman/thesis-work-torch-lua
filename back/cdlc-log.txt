@@ -1,0 +1,33 @@
+vocab2: turkish.1000.tok.en-tu.vocab
+data_path2: ./data/cdlc_en_tr/turkish
+corpus2: turkish.1000.tok
+model1: english.1000.tok.en-tu.model
+train_per: 1
+test_per: 0.25
+lr_decay: 1
+corpus1: english.1000.tok
+folds: 10
+vocab1: english.1000.tok.en-tu.vocab
+init: 0.001
+data_path1: ./data/cdlc_en_tr/english
+inp_size: 64
+lr: 0.01
+threshold: 5
+max_epoch: 300
+model2: turkish.1000.tok.en-tu.model
+
+Class: art
+Test Score: 91.509433962264%
+Precision: 0.89368009272675
+Recall: 0.98518518518519
+F1-Score: 0.9315000788685
+
+Class: arts
+Test Score: 89.350649350649%
+Precision: 0.88080519074422
+Recall: 0.94102564102564
+F1-Score: 0.90609623498864
+
+Average f1-Score: 0.91879815692857
+Average Acc: 90.430041656457
+
